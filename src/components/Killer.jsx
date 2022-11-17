@@ -4,7 +4,7 @@ const Killer = ({ name, image }) => {
 	return (
 		<div>
 			<div><b>Name: </b>{name}</div>
-			<img src={image} />
+			<img src={image} alt={name}/>
 		</div>
 	);
 }

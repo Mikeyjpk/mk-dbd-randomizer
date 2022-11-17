@@ -4,7 +4,7 @@ const KillerPerk = ({ name, image }) => {
 	return (
 		<div>
 			<div>{name}</div>
-			<img src={image} />
+			<img src={image} alt={name}/>
 		</div>
 	);
 }

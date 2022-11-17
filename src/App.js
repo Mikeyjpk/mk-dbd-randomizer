@@ -1,17 +1,12 @@
 import data from './data.json';
 import "./App.css";
-import { getRandomItem, getRandomNumber, getRandomSet } from './components/constants';
-import Survivor from './components/Survivor';
+import { getRandomItem, getRandomSet } from './components/constants';
 import SurvivorItem from './components/SurvivorItem';
 import SurvivorPerk from './components/SurvivorPerk';
 import Killer from './components/Killer';
 import KillerPerk from './components/KillerPerk';
+import SurvivorRandomizer from './components/SurvivorRandomizer';
 
-//test
-const SurvivorRandomizer = () => {
-	const { item } = getRandomItem(data.survivors);
-	return <Survivor name={item.name} image={item.image} />
-}
 
 const SurvivorItemRandomizer = () => {
 	const { item } = getRandomItem(data.survivorItems);
@@ -48,7 +43,6 @@ const KillerPerkRandomizer = () =>{
 		</div>
 	);
 }
-
 
 const App = () => {
   return (
