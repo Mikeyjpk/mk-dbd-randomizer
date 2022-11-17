@@ -7,7 +7,7 @@ import SurvivorPerk from './components/SurvivorPerk';
 import Killer from './components/Killer';
 import KillerPerk from './components/KillerPerk';
 
-
+//test
 const SurvivorRandomizer = () => {
 	const { item } = getRandomItem(data.survivors);
 	return <Survivor name={item.name} image={item.image} />
