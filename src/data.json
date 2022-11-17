@@ -1,0 +1,1804 @@
+{
+    "survivors": [
+        {
+            "id": 1,
+            "name": "Dwight Fairfield",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/DwightFairfield.webp"
+        },
+        {
+            "id": 2,
+            "name": "Meg Thomas",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/MegThomas.webp"
+        },
+        {
+            "id": 3,
+            "name": "Claudette Morel",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/ClaudetteMorel.webp"
+        },
+        {
+            "id": 4,
+            "name": "Jake Park",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/JakePark.webp"
+        },
+        {
+            "id": 5,
+            "name": "Nea Karlsson",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/NeaKarlsson.webp"
+        },
+        {
+            "id": 6,
+            "name": "Laurie Strode",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/LaurieStrode.webp"
+        },
+        {
+            "id": 7,
+            "name": "Ace Visconti",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/AceVisconti.webp"
+        },
+        {
+            "id": 8,
+            "name": "William 'Bill' Overbeck",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/BillOverbeck.webp"
+        },
+        {
+            "id": 9,
+            "name": "Feng Min",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/FengMin.webp"
+        },
+        {
+            "id": 10,
+            "name": "David King",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/DavidKing.webp"
+        },
+        {
+            "id": 11,
+            "name": "Quentin Smith",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/QuentinSmith.webp"
+        },
+        {
+            "id": 12,
+            "name": "Detective David Tapp",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/DavidTapp.webp"
+        },
+        {
+            "id": 13,
+            "name": "Kate Denson",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/KateDenson.webp"
+        },
+        {
+            "id": 14,
+            "name": "Adam Francis",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/AdamFrancis.webp"
+        },
+        {
+            "id": 15,
+            "name": "Jeffrey Jeff Johansen",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/JeffJohansen.webp"
+        },
+        {
+            "id": 16,
+            "name": "Jane Romero",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/JaneRomero.webp"
+        },
+        {
+            "id": 17,
+            "name": "Ashley J. Williams",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/AshWilliams.webp"
+        },
+        {
+            "id": 18,
+            "name": "Nancy Wheeler",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/NancyWheeler.webp"
+        },
+        {
+            "id": 19,
+            "name": "Steve Harrington",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/SteveHarrington.webp"
+        },
+        {
+            "id": 20,
+            "name": "Yui Kimura",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/YuiKimura.webp"
+        },
+        {
+            "id": 21,
+            "name": "Zarina Kassir",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/ZarinaKassir.webp"
+        },
+        {
+            "id": 22,
+            "name": "Cheryl Mason",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/CherylMason.webp"
+        },
+        {
+            "id": 23,
+            "name": "Felix Richter",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/FelixRichter.webp"
+        },
+        {
+            "id": 24,
+            "name": "Élodie Rakoto",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/ElodieRakoto.webp"
+        },
+        {
+            "id": 25,
+            "name": "Yun-Jin Lee",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/YunJinLee.webp"
+        },
+        {
+            "id": 26,
+            "name": "Jill Valentine",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/JillValentine.webp"
+        },
+        {
+            "id": 27,
+            "name": "Leon Kennedy",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/LeonKennedy.webp"
+        },
+        {
+            "id": 28,
+            "name": "Mikaela Reid",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/MikaelaReid.webp"
+        },
+        {
+            "id": 29,
+            "name": "Jonah Vasquez",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/JonahVasquez.webp"
+        },
+        {
+            "id": 30,
+            "name": "Yoichi Asakawa",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/YoichiAsakawa.webp"
+        },
+        {
+            "id": 31,
+            "name": "Haddie Kaur",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/HaddieKaur.webp"
+        },
+        {
+            "id": 32,
+            "name": "Ada Wong",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/AdaWong.webp"
+        },
+        {
+            "id": 33,
+            "name": "Rebecca Chambers",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Survivors/210/RebeccaChambers.webp"
+        }
+    ],
+    "survivorItems": [
+        {
+            "id": 1,
+            "name": "Worn-Out Tools",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/WornOutTools.webp"
+        },
+        {
+            "id": 2,
+            "name": "Mechanic's Toolbox",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/MechanicsToolbox.webp"
+        },
+        {
+            "id": 3,
+            "name": "Commodious Toolbox",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CommodiousToolbox.webp"
+        },
+        {
+            "id": 4,
+            "name": "Engineer's Toolbox",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EngineersToolbox.webp"
+        },
+        {
+            "id": 5,
+            "name": "Alex's Toolbox",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/AlexsToolbox.webp"
+        },
+        {
+            "id": 6,
+            "name": "Camping Aid Kit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CampingAidKit.webp"
+        },
+        {
+            "id": 7,
+            "name": "Emergency Med-Kit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EmergencyMedKit.webp"
+        },
+        {
+            "id": 8,
+            "name": "Ranger Med-Kit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RangerMedKit.webp"
+        },
+        {
+            "id": 9,
+            "name": "Map",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Map.webp"
+        },
+        {
+            "id": 10,
+            "name": "Rainbow Map",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RainbowMap.webp"
+        },
+        {
+            "id": 11,
+            "name": "Skeleton Key",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SkeletonKey.webp"
+        },
+        {
+            "id": 12,
+            "name": "Broken Key",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/BrokenKey.webp"
+        },
+        {
+            "id": 13,
+            "name": "Dull Key",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/DullKey.webp"
+        },
+        {
+            "id": 14,
+            "name": "Flashlight",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Flashlight.webp"
+        },
+        {
+            "id": 15,
+            "name": "Sport Flashlight",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SportFlashlight.webp"
+        },
+        {
+            "id": 16,
+            "name": "Utility Flashlight",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/UtilityFlashlight.webp"
+        }
+    ],
+    "survivorPerks":[
+        {
+            "id": 1,
+            "name": "Any",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Any.webp"
+        },
+        {
+            "id": 2,
+            "name": "Ace In The Hole",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/AceInTheHole.webp"
+        },
+        {
+            "id": 3,
+            "name": "Adrenaline",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Adrenaline.webp"
+        },
+        {
+            "id": 4,
+            "name": "Aftercare",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Aftercare.webp"
+        },
+        {
+            "id": 5,
+            "name": "Alert",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Alert.webp"
+        },
+        {
+            "id": 6,
+            "name": "Any Means Necessary",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/AnyMeansNecessary.webp"
+        },
+        {
+            "id": 7,
+            "name": "Appraisal",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Appraisal.webp"
+        },
+        {
+            "id": 8,
+            "name": "Autodidact",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Autodidact.webp"
+        },
+        {
+            "id": 9,
+            "name": "Balanced Landing",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BalancedLanding.webp"
+        },
+        {
+            "id": 10,
+            "name": "Better Than New",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BetterThanNew.webp"
+        },
+        {
+            "id": 11,
+            "name": "Bite The Bullet",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BiteTheBullet.webp"
+        },
+        {
+            "id": 12,
+            "name": "Blast Mine",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BlastMine.webp"
+        },
+        {
+            "id": 13,
+            "name": "Blood Pact",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BloodPact.webp"
+        },
+        {
+            "id": 14,
+            "name": "Boil Over",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BoilOver.webp"
+        },
+        {
+            "id": 15,
+            "name": "Boon: Circle of Healing",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BoonCircleOfHealing.webp"
+        },
+        {
+            "id": 16,
+            "name": "Boon: Dark Theory",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BoonDarkTheory.webp"
+        },
+        {
+            "id": 17,
+            "name": "Boon: Exponential",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BoonExponential.webp"
+        },
+        {
+            "id": 18,
+            "name": "Boon: Shadow Step",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BoonShadowStep.webp"
+        },
+        {
+            "id": 19,
+            "name": "Adrenaline",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Adrenaline.webp"
+        },
+        {
+            "id": 20,
+            "name": "Bond",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Bond.webp"
+        },
+        {
+            "id": 21,
+            "name": "Borrowed Time",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BorrowedTime.webp"
+        },
+        {
+            "id": 22,
+            "name": "Botany Knowledge",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BotanyKnowledge.webp"
+        },
+        {
+            "id": 23,
+            "name": "Breakdown",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Breakdown.webp"
+        },
+        {
+            "id": 24,
+            "name": "Breakout",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Breakout.webp"
+        },
+        {
+            "id": 25,
+            "name": "Buckle Up",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BuckleUp.webp"
+        },
+        {
+            "id": 26,
+            "name": "Built To Last",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/BuiltToLast.webp"
+        },
+        {
+            "id": 27,
+            "name": "Calm Spirit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/CalmSpirit.webp"
+        },
+        {
+            "id": 28,
+            "name": "Corrective Action",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/CorrectiveAction.webp"
+        },
+        {
+            "id": 29,
+            "name": "Counterforce",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Counterforce.webp"
+        },
+        {
+            "id": 30,
+            "name": "Clairvoyance",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Clairvoyance.webp"
+        },
+        {
+            "id": 31,
+            "name": "Dance With Me",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DanceWithMe.webp"
+        },
+        {
+            "id": 32,
+            "name": "Dark Sense",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DarkSense.webp"
+        },
+        {
+            "id": 33,
+            "name": "DeadHard",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DeadHard.webp"
+        },
+        {
+            "id": 34,
+            "name": "Deception",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Deception.webp"
+        },
+        {
+            "id": 35,
+            "name": "Decisive Strike",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DecisiveStrike.webp"
+        },
+        {
+            "id": 36,
+            "name": "Déjà Vu",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DejaVu.webp"
+        },
+        {
+            "id": 37,
+            "name": "Deliverance",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Deliverance.webp"
+        },
+        {
+            "id": 38,
+            "name": "Desperate Measures",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DesperateMeasures.webp"
+        },
+        {
+            "id": 39,
+            "name": "Detective's Hunch",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/DetectivesHunch.webp"
+        },
+        {
+            "id": 40,
+            "name": "Distortion",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Distortion.webp"
+        },
+        {
+            "id": 41,
+            "name": "Diversion",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Diversion.webp"
+        },
+        {
+            "id": 42,
+            "name": "Empathic Connection",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/EmpathicConnection.webp"
+        },
+        {
+            "id": 43,
+            "name": "Empathy",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Empathy.webp"
+        },
+        {
+            "id": 44,
+            "name": "Fast Track",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/FastTrack.webp"
+        },
+        {
+            "id": 45,
+            "name": "Flashbang",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Flashbang.webp"
+        },
+        {
+            "id": 46,
+            "name": "Flip-Flop",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/FlipFlop.webp"
+        },
+        {
+            "id": 47,
+            "name": "For The People",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ForThePeople.webp"
+        },
+        {
+            "id": 48,
+            "name": "Guardian",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Guardian.webp"
+        },
+        {
+            "id": 49,
+            "name": "Head On",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/HeadOn.webp"
+        },
+        {
+            "id": 50,
+            "name": "Hope",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Hope.webp"
+        },
+        {
+            "id": 51,
+            "name": "Hyperfocus",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Hyperfocus.webp"
+        },
+        {
+            "id": 52,
+            "name": "Inner Focus",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/InnerFocus.webp"
+        },
+        {
+            "id": 53,
+            "name": "Inner Healing",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/InnerHealing.webp"
+        },
+        {
+            "id": 54,
+            "name": "Iron Will",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/IronWill.webp"
+        },
+        {
+            "id": 55,
+            "name": "Kindred",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Kindred.webp"
+        },
+        {
+            "id": 56,
+            "name": "Kinship",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Kinship.webp"
+        },
+        {
+            "id": 57,
+            "name": "Leader",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Leader.webp"
+        },
+        {
+            "id": 58,
+            "name": "Left Behind",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/LeftBehind.webp"
+        },
+        {
+            "id": 59,
+            "name": "Lightweight",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Lightweight.webp"
+        },
+        {
+            "id": 60,
+            "name": "Lithe",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Lithe.webp"
+        },
+        {
+            "id": 61,
+            "name": "Low Profile",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/LowProfile.webp"
+        },
+        {
+            "id": 62,
+            "name": "Lucky Break",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/LuckyBreak.webp"
+        },
+        {
+            "id": 63,
+            "name": "Mettle of Man",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/MettleOfMan.webp"
+        },
+        {
+            "id": 64,
+            "name": "No Mither",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/NoMither.webp"
+        },
+        {
+            "id": 65,
+            "name": "No One Left Behind",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/NoOneLeftBehind.webp"
+        },
+        {
+            "id": 66,
+            "name": "Object Of Obsession",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ObjectOfObsession.webp"
+        },
+        {
+            "id": 67,
+            "name": "Off the Record",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/OffTheRecord.webp"
+        },
+        {
+            "id": 68,
+            "name": "Open-Handed",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/OpenHanded.webp"
+        },
+        {
+            "id": 69,
+            "name": "Overcome",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Overcome.webp"
+        },
+        {
+            "id": 70,
+            "name": "Overzealous",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Overzealous.webp"
+        },
+        {
+            "id": 71,
+            "name": "Parental Guidance",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ParentalGuidance.webp"
+        },
+        {
+            "id": 72,
+            "name": "Pharmacy",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Pharmacy.webp"
+        },
+        {
+            "id": 73,
+            "name": "Plunderer's Instinct",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/PlunderersInstinct.webp"
+        },
+        {
+            "id": 74,
+            "name": "Poised",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Poised.webp"
+        },
+        {
+            "id": 75,
+            "name": "Power Struggle",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/PowerStruggle.webp"
+        },
+        {
+            "id": 76,
+            "name": "Premonition",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Premonition.webp"
+        },
+        {
+            "id": 77,
+            "name": "Prove Thyself",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ProveThyself.webp"
+        },
+        {
+            "id": 78,
+            "name": "Quick & Quiet",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/QuickQuiet.webp"
+        },
+        {
+            "id": 79,
+            "name": "Reactive Healing",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ReactiveHealing.webp"
+        },
+        {
+            "id": 80,
+            "name": "Reassurance",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Reassurance.webp"
+        },
+        {
+            "id": 81,
+            "name": "Red Herring",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/RedHerring.webp"
+        },
+        {
+            "id": 82,
+            "name": "Renewal",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Renewal.webp"
+        },
+        {
+            "id": 83,
+            "name": "Repressed Alliance",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/RepressedAlliance.webp"
+        },
+        {
+            "id": 84,
+            "name": "Residual Manifest",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ResidualManifest.webp"
+        },
+        {
+            "id": 85,
+            "name": "Resilience",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Resilience.webp"
+        },
+        {
+            "id": 86,
+            "name": "Resurgence",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Resurgence.webp"
+        },
+        {
+            "id": 87,
+            "name": "Rookie Spirit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/RookieSpirit.webp"
+        },
+        {
+            "id": 88,
+            "name": "Saboteur",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Saboteur.webp"
+        },
+        {
+            "id": 89,
+            "name": "Self-Aware",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SelfAware.webp"
+        },
+        {
+            "id": 90,
+            "name": "Self-Care",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SelfCare.webp"
+        },
+        {
+            "id": 91,
+            "name": "Self-Preservation",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SelfPreservation.webp"
+        },
+        {
+            "id": 92,
+            "name": "Situational Awareness",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SituationalAwareness.webp"
+        },
+        {
+            "id": 93,
+            "name": "Slippery Meat",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SlipperyMeat.webp"
+        },
+        {
+            "id": 94,
+            "name": "Small Game",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SmallGame.webp"
+        },
+        {
+            "id": 95,
+            "name": "Smash Hit",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SmashHit.webp"
+        },
+        {
+            "id": 96,
+            "name": "Sole Survivor",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SoleSurvivor.webp"
+        },
+        {
+            "id": 97,
+            "name": "Soul Guard",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SoulGuard.webp"
+        },
+        {
+            "id": 98,
+            "name": "Spine Chill",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/SpineChill.webp"
+        },
+        {
+            "id": 99,
+            "name": "Stake Out",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/StakeOut.webp"
+        },
+        {
+            "id": 100,
+            "name": "Streetwise",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Streetwise.webp"
+        },
+        {
+            "id": 101,
+            "name": "Technician",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Technician.webp"
+        },
+        {
+            "id": 102,
+            "name": "Tenacity",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Tenacity.webp"
+        },
+        {
+            "id": 103,
+            "name": "This Is Not Happening",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/ThisIsNotHappening.webp"
+        },
+        {
+            "id": 104,
+            "name": "Unbreakable",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Unbreakable.webp"
+        },
+        {
+            "id": 105,
+            "name": "Up the Ante",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/UpTheAnte.webp"
+        },
+        {
+            "id": 106,
+            "name": "Urban Evasion",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/UrbanEvasion.webp"
+        },
+        {
+            "id": 107,
+            "name": "Vigil",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Vigil.webp"
+        },
+        {
+            "id": 108,
+            "name": "Visionary",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Visionary.webp"
+        },
+        {
+            "id": 109,
+            "name": "Wake Up!",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/WakeUp.webp"
+        },
+        {
+            "id": 110,
+            "name": "We'll Make It",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/WellMakeIt.webp"
+        },
+        {
+            "id": 111,
+            "name": "We're Gonna Live Forever",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/WereGonnaLiveForever.webp"
+        },
+        {
+            "id": 112,
+            "name": "Windows of Opportunity",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/WindowsOfOpportunity.webp"
+        },
+        {
+            "id": 113,
+            "name": "Wiretap",
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Wiretap.webp"
+        }
+    ],
+    "survivorItemAddons": [
+        {
+            "id": 1,
+            "name": "Scraps",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp"
+        },
+        {
+            "id": 2,
+            "name": "Instructions",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Instructions.webp"
+        },
+        {
+            "id": 3,
+            "name": "Clean Rag",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CleanRag.webp"
+        },
+        {
+            "id": 4,
+            "name": "Wire Spool",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WireSpool.webp"
+        },
+        {
+            "id": 5,
+            "name": "Spring Clamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SpringClamp.webp"
+        },
+        {
+            "id": 6,
+            "name": "Socket Swivels",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SocketSwivels.webp"
+        },
+        {
+            "id": 7,
+            "name": "Protective Gloves",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ProtectiveGloves.webp"
+        },
+        {
+            "id": 8,
+            "name": "Cutting Wire",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CuttingWire.webp"
+        },
+        {
+            "id": 9,
+            "name": "Hacksaw",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Hacksaw.webp"
+        },
+        {
+            "id": 10,
+            "name": "Grip Wrench",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GripWrench.webp"
+        },
+        {
+            "id": 11,
+            "name": "Brand New Part",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BrandNewPart.webp"
+        },
+        {
+            "id": 12,
+            "name": "Rubber Gloves",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGloves.webp"
+        },
+        {
+            "id": 13,
+            "name": "Butterfly Tape",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ButterflyTape.webp"
+        },
+        {
+            "id": 14,
+            "name": "Bandages",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Bandages.webp"
+        },
+        {
+            "id": 15,
+            "name": "Sponge",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Sponge.webp"
+        },
+        {
+            "id": 16,
+            "name": "Self Adherent Wrap",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SelfAdherentWrap.webp"
+        },
+        {
+            "id": 17,
+            "name": "Needle & Thread",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/NeedleThread.webp"
+        },
+        {
+            "id": 18,
+            "name": "Medical Scissors",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MedicalScissors.webp"
+        },
+        {
+            "id": 19,
+            "name": "Gauze Roll",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GauzeRoll.webp"
+        },
+        {
+            "id": 20,
+            "name": "Surgical Suture",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SurgicalSuture.webp"
+        },
+        {
+            "id": 21,
+            "name": "Gel Dressings",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GelDressings.webp"
+        },
+        {
+            "id": 22,
+            "name": "Abdominal Dressing",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AbdominalDressing.webp"
+        },
+        {
+            "id": 23,
+            "name": "Styptic Agent",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/StypticAgent.webp"
+        },
+        {
+            "id": 24,
+            "name": "Anti-Haemorrhagic Syringe",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AntiHaemorrhagicSyringe.webp"
+        },
+        {
+            "id": 25,
+            "name": "Map Addendum",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MapAddendum.webp"
+        },
+        {
+            "id": 26,
+            "name": "Yellow Wire",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/YellowWire.webp"
+        },
+        {
+            "id": 27,
+            "name": "Unusual Stamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UnusualStamp.webp"
+        },
+        {
+            "id": 28,
+            "name": "Retardant Jelly",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RetardantJelly.webp"
+        },
+        {
+            "id": 29,
+            "name": "Red Twine",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RedTwine.webp"
+        },
+        {
+            "id": 30,
+            "name": "Glass Bead",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GlassBead.webp"
+        },
+        {
+            "id": 31,
+            "name": "Odd Stamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddStamp.webp"
+        },
+        {
+            "id": 32,
+            "name": "Black Silk Cord",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BlackSilkCord.webp"
+        },
+        {
+            "id": 33,
+            "name": "Crystal Bead",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CrystalBead.webp"
+        },
+        {
+            "id": 34,
+            "name": "Prayer Rope",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerRope.webp"
+        },
+        {
+            "id": 35,
+            "name": "Scratched Pearl",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ScratchedPearl.webp"
+        },
+        {
+            "id": 36,
+            "name": "Prayer Beads",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerBeads.webp"
+        },
+        {
+            "id": 37,
+            "name": "Eroded Token",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ErodedToken.webp"
+        },
+        {
+            "id": 38,
+            "name": "Gold Token",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GoldToken.webp"
+        },
+        {
+            "id": 39,
+            "name": "Weaved Ring",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WeavedRing.webp"
+        },
+        {
+            "id": 40,
+            "name": "Milky Glass",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MilkyGlass.webp"
+        },
+        {
+            "id": 41,
+            "name": "Blood Amber",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BloodAmber.webp"
+        },
+        {
+            "id": 42,
+            "name": "Unique Wedding Ring",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UniqueWeddingRing.webp"
+        },
+        {
+            "id": 43,
+            "name": "Wide Lense",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WideLense.webp"
+        },
+        {
+            "id": 44,
+            "name": "Power Bulb",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PowerBulb.webp"
+        },
+        {
+            "id": 45,
+            "name": "Leather Grip",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LeatherGrip.webp"
+        },
+        {
+            "id": 46,
+            "name": "Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Battery.webp"
+        },
+        {
+            "id": 47,
+            "name": "TIR Optic",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/TIROptic.webp"
+        },
+        {
+            "id": 48,
+            "name": "Rubber Grip",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGrip.webp"
+        },
+        {
+            "id": 49,
+            "name": "Low Amp Filament",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LowAmpFilament.webp"
+        },
+        {
+            "id": 50,
+            "name": "Heavy Duty Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HeavyDutyBattery.webp"
+        },
+        {
+            "id": 51,
+            "name": "Focus Lens",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/FocusLens.webp"
+        },
+        {
+            "id": 52,
+            "name": "Long Life Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LongLifeBattery.webp"
+        },
+        {
+            "id": 53,
+            "name": "Intense Halogen",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/IntenseHalogen.webp"
+        },
+        {
+            "id": 54,
+            "name": "High-End Sapphire Lens",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HighEndSapphireLens.webp"
+        },
+        {
+            "id": 55,
+            "name": "Odd Bulb",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddBulb.webp"
+        }
+
+    ],
+    "survivorOfferings": [
+        {
+            "id": 1,
+            "name": "Offering 1",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Offering 2",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Offering 3",
+            "image": ""
+        }
+    ],
+    "killers": [
+        {
+            "id": 1,
+            "name": "The Trapper",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheTrapper.webp"
+        },
+        {
+            "id": 2,
+            "name": "The Wraith",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheWraith.webp"
+        },
+        {
+            "id": 3,
+            "name": "The HillBilly",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheHillBilly.webp"
+        },
+        {
+            "id": 4,
+            "name": "The Nurse",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheNurse.webp"
+        },
+        {
+            "id": 5,
+            "name": "The Shape",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheShape.webp"
+        },
+        {
+            "id": 6,
+            "name": "The Hag",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheHag.webp"
+        },
+        {
+            "id": 7,
+            "name": "The Doctor",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheDoctor.webp"
+        },
+        {
+            "id": 8,
+            "name": "The Huntress",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheHuntress.webp"
+        },
+        {
+            "id": 9,
+            "name": "The Cannibal",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheCannibal.webp"
+        },
+        {
+            "id": 10,
+            "name": "The Nightmare",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheNightmare.webp"
+        },
+        {
+            "id": 11,
+            "name": "The Pig",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/ThePig.webp"
+        },
+        {
+            "id": 12,
+            "name": "The Clown",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheClown.webp"
+        },
+        {
+            "id": 13,
+            "name": "The Spirit",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheSpirit.webp"
+        },
+        {
+            "id": 14,
+            "name": "The Legion",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheLegion.webp"
+        },
+        {
+            "id": 15,
+            "name": "The Plague",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/ThePlague.webp"
+        },
+        {
+            "id": 16,
+            "name": "The Ghost Face",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheGhostFace.webp"
+        },
+        {
+            "id": 17,
+            "name": "The Demogorgon",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheDemogorgon.webp"
+        },
+        {
+            "id": 18,
+            "name": "The Oni",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheOni.webp"
+        },
+        {
+            "id": 19,
+            "name": "The Deathslinger",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheDeathslinger.webp"
+        },
+        {
+            "id": 20,
+            "name": "The Executioner",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheExecutioner.webp"
+        },
+        {
+            "id": 21,
+            "name": "The Blight",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheBlight.webp"
+        },
+        {
+            "id": 22,
+            "name": "The Twins",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheTwins.webp"
+        },
+        {
+            "id": 23,
+            "name": "The Trickster",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheTrickster.webp"
+        },
+        {
+            "id": 24,
+            "name": "The Nemesis",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheNemesis.webp"
+        },
+        {
+            "id": 25,
+            "name": "The Cenobite",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheCenobite.webp"
+        },
+        {
+            "id": 26,
+            "name": "The Artist",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheArtist.webp"
+        },
+        {
+            "id": 27,
+            "name": "The Onryō",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheOnryo.webp"
+        },
+        {
+            "id": 28,
+            "name": "The Dredge",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheDredge.webp"
+        },
+        {
+            "id": 29,
+            "name": "The Mastermind",
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheMastermind.webp"
+        }
+    ],
+    "killerPerks": [
+        {
+            "id": 1,
+            "name": "A Nurse's Calling",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ANursesCalling.webp"
+        },
+        {
+            "id": 2,
+            "name": "Agitation",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Agitation.webp"
+        },
+        {
+            "id": 3,
+            "name": "Awakened Awareness",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/AwakenedAwareness.webp"
+        },
+        {
+            "id": 4,
+            "name": "Bamboozle",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Bamboozle.webp"
+        },
+        {
+            "id": 5,
+            "name": "Beast of Prey",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/BeastOfPrey.webp"
+        },
+        {
+            "id": 6,
+            "name": "Bitter Murmur",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/BitterMurmur.webp"
+        },
+        {
+            "id": 7,
+            "name": "Blood Echo",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/BloodEcho.webp"
+        },
+        {
+            "id": 8,
+            "name": "Blood Warden",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/BloodWarden.webp"
+        },
+        {
+            "id": 9,
+            "name": "Bloodhound",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Bloodhound.webp"
+        },
+        {
+            "id": 10,
+            "name": "Brutal Strength",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/BrutalStrength.webp"
+        },
+        {
+            "id": 11,
+            "name": "Call of Brine",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/CallOfBrine.webp"
+        },
+        {
+            "id": 12,
+            "name": "Corrupt Intervention",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/CorruptIntervention.webp"
+        },
+        {
+            "id": 13,
+            "name": "Coulrophobia",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Coulrophobia.webp"
+        },
+        {
+            "id": 14,
+            "name": "Coup de Grâce",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/CoupDeGrace.webp"
+        },
+        {
+            "id": 15,
+            "name": "Claustrophobia",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Claustrophobia.webp"
+        },
+        {
+            "id": 16,
+            "name": "Dark Devotion",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/DarkDevotion.webp"
+        },
+        {
+            "id": 17,
+            "name": "Darkness Revealed",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/DarknessRevealed.webp"
+        },
+        {
+            "id": 18,
+            "name": "Dead Man's Switch",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/DeadMansSwitch.webp"
+        },
+        {
+            "id": 19,
+            "name": "Deadlock",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Deadlock.webp"
+        },
+        {
+            "id": 20,
+            "name": "Deathbound",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Deathbound.webp"
+        },
+        {
+            "id": 21,
+            "name": "Deerstalker",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Deerstalker.webp"
+        },
+        {
+            "id": 22,
+            "name": "Discordance",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Discordance.webp"
+        },
+        {
+            "id": 23,
+            "name": "Dissolution",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Dissolution.webp"
+        },
+        {
+            "id": 24,
+            "name": "Distressing",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Distressing.webp"
+        },
+        {
+            "id": 25,
+            "name": "Dragon's Grip",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/DragonsGrip.webp"
+        },
+        {
+            "id": 26,
+            "name": "Dying Light",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/DyingLight.webp"
+        },
+        {
+            "id": 27,
+            "name": "Enduring",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Enduring.webp"
+        },
+        {
+            "id": 28,
+            "name": "Fearmonger",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Fearmonger.webp"
+        },
+        {
+            "id": 29,
+            "name": "Fire Up",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/FireUp.webp"
+        },
+        {
+            "id": 30,
+            "name": "Forced Penance",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ForcedPenance.webp"
+        },
+        {
+            "id": 31,
+            "name": "Franklin's Demise",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/FranklinsDemise.webp"
+        },
+        {
+            "id": 32,
+            "name": "Furtive Chase",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/FurtiveChase.webp"
+        },
+        {
+            "id": 33,
+            "name": "Gearhead",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Gearhead.webp"
+        },
+        {
+            "id": 34,
+            "name": "Grim Embrace",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/GrimEmbrace.webp"
+        },
+        {
+            "id": 35,
+            "name": "Hangman's Trick",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HangmansTrick.webp"
+        },
+        {
+            "id": 36,
+            "name": "Hex: Blood Favour",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexBloodFavour.webp"
+        },
+        {
+            "id": 37,
+            "name": "Hex: Crowd Control",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexCrowdControl.webp"
+        },
+        {
+            "id": 38,
+            "name": "Hex: Devour Hope",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexDevourHope.webp"
+        },
+        {
+            "id": 39,
+            "name": "Hex: Haunted Ground",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexHauntedGround.webp"
+        },
+        {
+            "id": 40,
+            "name": "Hex: Huntress Lullaby",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexHuntressLullaby.webp"
+        },
+        {
+            "id": 41,
+            "name": "Hex: No One Escapes Death",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexNoOneEscapesDeath.webp"
+        },
+        {
+            "id": 42,
+            "name": "Hex: Pentimento",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexPentimento.webp"
+        },
+        {
+            "id": 43,
+            "name": "Hex: Plaything",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexPlaything.webp"
+        },
+        {
+            "id": 44,
+            "name": "Hex: Retribution",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexRetribution.webp"
+        },
+        {
+            "id": 45,
+            "name": "Hex: Ruin",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexRuin.webp"
+        },
+        {
+            "id": 46,
+            "name": "Agitation",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Agitation.webp"
+        },
+        {
+            "id": 47,
+            "name": "Agitation",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Agitation.webp"
+        },
+        {
+            "id": 48,
+            "name": "Hex: The Third Seal",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexTheThirdSeal.webp"
+        },
+        {
+            "id": 49,
+            "name": "Hex: Thrill of the Hunt",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexThrillOfTheHunt.webp"
+        },
+        {
+            "id": 50,
+            "name": "Hex: Undying",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexUndying.webp"
+        },
+        {
+            "id": 51,
+            "name": "Hoarder",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Hoarder.webp"
+        },
+        {
+            "id": 52,
+            "name": "Hysteria",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Hysteria.webp"
+        },
+        {
+            "id": 53,
+            "name": "I'm All Ears",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ImAllEars.webp"
+        },
+        {
+            "id": 54,
+            "name": "Infectious Fright",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/InfectiousFright.webp"
+        },
+        {
+            "id": 55,
+            "name": "Insidious",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Insidious.webp"
+        },
+        {
+            "id": 56,
+            "name": "Iron Grasp",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/IronGrasp.webp"
+        },
+        {
+            "id": 57,
+            "name": "Iron Maiden",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/IronMaiden.webp"
+        },
+        {
+            "id": 58,
+            "name": "Jolt",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Jolt.webp"
+        },
+        {
+            "id": 59,
+            "name": "Knock Out",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/KnockOut.webp"
+        },
+        {
+            "id": 60,
+            "name": "Leathal Pursuer",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/LeathalPursuer.webp"
+        },
+        {
+            "id": 61,
+            "name": "Lightborn",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Lightborn.webp"
+        },
+        {
+            "id": 62,
+            "name": "Mad Grit",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MadGrit.webp"
+        },
+        {
+            "id": 63,
+            "name": "Make Your Choice",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MakeYourChoice.webp"
+        },
+        {
+            "id": 64,
+            "name": "MercilessStorm",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Merciless Storm.webp"
+        },
+        {
+            "id": 65,
+            "name": "Monitor & Abuse",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MonitorAbuse.webp"
+        },
+        {
+            "id": 66,
+            "name": "Nemesis",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Nemesis.webp"
+        },
+        {
+            "id": 67,
+            "name": "No Way Out",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/NoWayOut.webp"
+        },
+        {
+            "id": 68,
+            "name": "Oppression",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Oppression.webp"
+        },
+        {
+            "id": 69,
+            "name": "Overcharge",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Overcharge.webp"
+        },
+        {
+            "id": 70,
+            "name": "Overwhelming Presence",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/OverwhelmingPresence.webp"
+        },
+        {
+            "id": 71,
+            "name": "Play With Your Food",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/PlayWithYourFood.webp"
+        },
+        {
+            "id": 72,
+            "name": "Pop Goes the Weasel",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/PopGoestheWeasel.webp"
+        },
+        {
+            "id": 73,
+            "name": "Predator",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Predator.webp"
+        },
+        {
+            "id": 74,
+            "name": "Rancor",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Rancor.webp"
+        },
+        {
+            "id": 75,
+            "name": "Remember Me",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/RememberMe.webp"
+        },
+        {
+            "id": 76,
+            "name": "Save The Best For Last",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SaveTheBestForLast.webp"
+        },
+        {
+            "id": 77,
+            "name": "Scourge Hook: Floods of Rage",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ScourgeHookFloodsOfRage.webp"
+        },
+        {
+            "id": 78,
+            "name": "Scourge Hook: Gift of Pain",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ScourgeHookGiftOfPain.webp"
+        },
+        {
+            "id": 79,
+            "name": "Scourge Hook: Monstrous Shrine",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ScourgeHookMonstrousShrine.webp"
+        },
+        {
+            "id": 80,
+            "name": "Scourge Hook: Pain Resonance",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ScourgeHookPainResonance.webp"
+        },
+        {
+            "id": 81,
+            "name": "Septic Touch",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SepticTouch.webp"
+        },
+        {
+            "id": 82,
+            "name": "Shadowborn",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Shadowborn.webp"
+        },
+        {
+            "id": 83,
+            "name": "Shattered Hope",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ShatteredHope.webp"
+        },
+        {
+            "id": 84,
+            "name": "SloppyButcher",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SloppyButcher.webp"
+        },
+        {
+            "id": 85,
+            "name": "Spies from the Shadows",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SpiesFromTheShadows.webp"
+        },
+        {
+            "id": 86,
+            "name": "Spirit Fury",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SpiritFury.webp"
+        },
+        {
+            "id": 87,
+            "name": "Starstruck",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Starstruck.webp"
+        },
+        {
+            "id": 88,
+            "name": "Stridor",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Stridor.webp"
+        },
+        {
+            "id": 89,
+            "name": "Superior Anatomy",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/SuperiorAnatomy.webp"
+        },
+        {
+            "id": 90,
+            "name": "Surveillance",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Surveillance.webp"
+        },
+        {
+            "id": 91,
+            "name": "Terminus",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Terminus.webp"
+        },
+        {
+            "id": 92,
+            "name": "Territorial Imperative",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/TerritorialImperative.webp"
+        },
+        {
+            "id": 93,
+            "name": "Thanatophobia",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Thanatophobia.webp"
+        },
+        {
+            "id": 94,
+            "name": "Thrilling Tremors",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ThrillingTremors.webp"
+        },
+        {
+            "id": 95,
+            "name": "Tinkerer",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Tinkerer.webp"
+        },
+        {
+            "id": 96,
+            "name": "Trail of Torment",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/TrailOfTorment.webp"
+        },
+        {
+            "id": 97,
+            "name": "Unnerving Presence",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/UnnervingPresence.webp"
+        },
+        {
+            "id": 94,
+            "name": "Unrelenting",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Unrelenting.webp"
+        },
+        {
+            "id": 95,
+            "name": "Whispers",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Whispers.webp"
+        },
+        {
+            "id": 96,
+            "name": "Zanshin Tactics",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ZanshinTactics.webp"
+        }
+    ],
+    "killerItems": [
+        {
+            "id": 1,
+            "name": "Item 1"
+        },
+        {
+            "id": 2,
+            "name": "Item 2"
+        },
+        {
+            "id": 3,
+            "name": "Item 3"
+        }
+    ],
+    "killerOfferings": [
+        {
+            "id": 1,
+            "name": "Offering 1"
+        },
+        {
+            "id": 2,
+            "name": "Offering 2"
+        },
+        {
+            "id": 3,
+            "name": "Offering 3"
+        }
+    ],
+    "maps": [
+        {
+            "id": 1,
+            "name": "The Game"
+        },
+        {
+            "id": 2,
+            "name": "Suffocation Pit"
+        },
+        {
+            "id": 3,
+            "name": "Coal Tower"
+        }
+    ]
+}
