@@ -819,7 +819,8 @@
         {
             "id": 1,
             "name": "Scraps",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp"
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp",
+            "itemIds" : [1, 2, 3, 4, 5]
         },
         {
             "id": 2,
@@ -1114,7 +1115,14 @@
         {
             "id": 1,
             "name": "The Trapper",
-            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheTrapper.webp"
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheTrapper.webp",
+            "addOns" : [
+                {
+                    "id": 1,
+                    "name": "Trapper Bag",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TrapperBag.webp"
+                }
+            ]
         },
         {
             "id": 2,
@@ -1124,7 +1132,7 @@
         {
             "id": 3,
             "name": "The HillBilly",
-            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheHillBilly.webp"
+            "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheHillbilly.webp"
         },
         {
             "id": 4,
@@ -1435,8 +1443,8 @@
         },
         {
             "id": 36,
-            "name": "Hex: Blood Favour",
-            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexBloodFavour.webp"
+            "name": "Hex: Blood Favor",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/HexBloodFavor.webp"
         },
         {
             "id": 37,
@@ -1555,8 +1563,8 @@
         },
         {
             "id": 60,
-            "name": "Leathal Pursuer",
-            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/LeathalPursuer.webp"
+            "name": "Lethal Pursuer",
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/LethalPursuer.webp"
         },
         {
             "id": 61,
@@ -1576,12 +1584,12 @@
         {
             "id": 64,
             "name": "MercilessStorm",
-            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/Merciless Storm.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MercilessStorm.webp"
         },
         {
             "id": 65,
             "name": "Monitor & Abuse",
-            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MonitorAbuse.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/MonitorAndAbuse.webp"
         },
         {
             "id": 66,
@@ -1616,7 +1624,7 @@
         {
             "id": 72,
             "name": "Pop Goes the Weasel",
-            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/PopGoestheWeasel.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/PopGoesTheWeasel.webp"
         },
         {
             "id": 73,
