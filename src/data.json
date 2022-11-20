@@ -1097,18 +1097,118 @@
     "survivorOfferings": [
         {
             "id": 1,
-            "name": "Offering 1",
-            "image": ""
+            "name": "Chalk Pouch",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ChalkPouch.webp"
         },
         {
             "id": 2,
-            "name": "Offering 2",
-            "image": ""
+            "name": "Cream Chalk Pouch",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/CreamChalkPouch.webp"
         },
         {
             "id": 3,
-            "name": "Offering 3",
-            "image": ""
+            "name": "Ivory Chalk Pouch",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/IvoryChalkPouch.webp"
+        },
+        {
+            "id": 4,
+            "name": "Salt Pouch",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/SaltPouch.webp"
+        },
+        {
+            "id": 5,
+            "name": "Black Salt Statuette",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/BlackSaltStatuette.webp"
+        },
+        {
+            "id": 6,
+            "name": "Vigo's Jar of Salty Lips",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/VigosJarofSaltyLips.webp"
+        },
+        {
+            "id": 7,
+            "name": "Bloodied Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/BloodiedBlueprint.webp"
+        },
+        {
+            "id": 8,
+            "name": "Torn Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/TornBlueprint.webp"
+        },
+        {
+            "id": 9,
+            "name": "Tarnished Coin",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/TarnishedCoin.webp"
+        },
+        {
+            "id": 10,
+            "name": "Shiny Coin",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShinyCoin.webp"
+        },
+        {
+            "id": 11,
+            "name": "Clear Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ClearReagent.webp"
+        },
+        {
+            "id": 12,
+            "name": "Faint Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/FaintReagent.webp"
+        },
+        {
+            "id": 13,
+            "name": "Hazy Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/HazyReagent.webp"
+        },
+        {
+            "id": 14,
+            "name": "Murky Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/MurkyReagent.webp"
+        },
+        {
+            "id": 15,
+            "name": "Annotated Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/AnnotatedBlueprint.webp"
+        },
+        {
+            "id": 16,
+            "name": "Vigo's Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/VigosBlueprint.webp"
+        },
+        {
+            "id": 17,
+            "name": "Petrified Oak",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/PetrifiedOak.webp"
+        },
+        {
+            "id": 18,
+            "name": "Vigo's Shroud",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/VigosShroud.webp"
+        },
+        {
+            "id": 19,
+            "name": "Shroud of Binding",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudofBinding.webp"
+        },
+        {
+            "id": 20,
+            "name": "Sacrificial Ward",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/SacrificialWard.webp"
+        },
+        {
+            "id": 21,
+            "name": "Shroud of Union",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudofUnion.webp"
+        },
+        {
+            "id": 22,
+            "name": "Any",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/Any.webp"
+        },
+        {
+            "id": 23,
+            "name": "None",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/None.webp"
         }
     ],
     "killers": [
@@ -3153,103 +3253,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rotten Pumpkin",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RottenPumpkin.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Black Heart",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BlackHeart.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rat Liver",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RatLiver.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rat Tail",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RatTail.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Sticky Lining",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/StickyLining.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rotten Green Tripe",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RottenGreenTripe.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mews' Guts",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MewsGuts.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Barb's Glasses",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BarbsGlasses.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Eleven's Soda",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ElevensSoda.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Thorny Vines",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ThornyVines.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Brass Case Lighter",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BrassCaseLighter.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Violet Waxcap",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VioletWaxcap.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Deer Lung",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DeerLung.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lifeguard Whistle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LifeguardWhistle.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Vermilion Webcap",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VermilionWebcap.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Viscous Webbing",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ViscousWebbing.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Upside Down Resin",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UpsideDownResin.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Unknown Egg",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UnknownEgg.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Leprose Lichen",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LeproseLichen.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Red Moss",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RedMoss.webp"
                 },
                 {
                     "id": 21,
@@ -3280,103 +3380,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rotting Rope",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RottingRope.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Paper Lantern",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PaperLantern.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cracked Sakazuki",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CrackedSakazuki.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Blackened Toenail",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BlackenedToenail.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Polished Maedate",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PolishedMaedate.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ink Lion",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/InkLion.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Chipped Saihai",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChippedSaihai.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Child's Wooden Sword",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChildsWoodenSword.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bloody Sash",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BloodySash.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Yamaoka Sashimono",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/YamaokaSashimono.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Wooden Oni Mask",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WoodenOniMask.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Shattered Wakizashi",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ShatteredWakizashi.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Scalped Topknot",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ScalpedTopknot.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Kanai-Anzen Talisman",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/KanaiAnzenTalisman.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tear Soaked Tenugui",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TearSoakedTenugui.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Splintered Hull",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SplinteredHull.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lion Fang",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LionFang.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Akito's Crutch",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AkitosCrutch.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Renjiro's Bloody Glove",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RenjirosBloodyGlove.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Family Crest",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentFamilyCrest.webp"
                 },
                 {
                     "id": 21,
@@ -3407,103 +3507,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Spit Polish Rag",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpitPolishRag.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Snake Oil",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SnakeOil.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rickety Chain",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RicketyChain.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Modified Ammo Belt",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ModifiedAmmoBelt.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rusted Spike",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RustedSpike.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Poison Oak Leaves",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PoisonOakLeaves.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Marshal's Badge",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MarshalsBadge.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Jaw Smasher",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JawSmasher.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Chewing Tobacco",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChewingTobacco.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Warden's Keys",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WardensKeys.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Wanted Poster",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WantedPoster.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tin Oil Can",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TinOilCan.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Honey Locust Thorn",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HoneyLocustThorn.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bayshore's Gold Tooth",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BayshoresGoldTooth.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Prison Chain",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PrisonChain.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Gold Creek Whiskey",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GoldCreekWhiskey.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bayshore's Cigar",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BayshoresCigar.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Barbed Wire",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BarbedWire.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Coin",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentCoin.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Hellshire Iron",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HellshireIron.webp"
                 },
                 {
                     "id": 21,
@@ -3534,103 +3634,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lead Ring",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LeadRing.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Dead Butterfly",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DeadButterfly.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Copper Ring",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CopperRing.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Black Strap",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BlackStrap.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Wax Doll",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WaxDoll.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Spearhead",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Spearhead.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Leopard-Print Fabric",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LeopardPrintFabric.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Forgotten Videotape",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ForgottenVideotape.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cinderella Music Box",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CinderellaMusicBox.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Valtiel Sect Photograph",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ValtielSectPhotograph.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tablet of the Oppressor",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TabletoftheOppressor.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Misty Day, Remains of Judgement",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MistyDayRemainsOfJudgement.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mannequin Foot",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MannequinFoot.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Burning Man Painting",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BurningManPainting.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Scarlet Egg",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ScarletEgg.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rust-Coloured Egg",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RustColouredEgg.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lost Memories Book",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LostMemoriesBook.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Crimson Ceremony Book",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CrimsonCeremonyBook.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Obsidian Goblet",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ObsidianGoblet.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Seal of Metatron",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentSealofMetatron.webp"
                 },
                 {
                     "id": 21,
@@ -3661,103 +3761,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Placebo Tablet",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PlaceboTablet.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Foxglove",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Foxglove.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Compound Seven",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CompoundSeven.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Chipped Monocle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChippedMonocle.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Shredded Notes",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ShreddedNotes.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Pustula Dust",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PustulaDust.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Plague Bile",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PlagueBile.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Canker Thorn",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CankerThorn.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Blighted Rat",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BlightedRat.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Umbra Salts",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UmbraSalts.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rose Tonic",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RoseTonic.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Compound Twenty-One",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CompoundTwentyOne.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Blighted Crow",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BlightedCrow.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Adrenaline Vial",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AdrenalineVial.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Vigo's Journal",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VigosJournal.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Summoning Stone",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SummoningStone.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Soul Chemical",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SoulChemical.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Alchemist's Ring",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AlchemistsRing.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Blight Tag",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentBlightTag.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Compound Thirty-Three",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CompoundThirtyThree.webp"
                 },
                 {
                     "id": 21,
@@ -3788,103 +3888,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Toy Sword",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ToySword.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tiny Fingernail",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TinyFingernail.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Soured Milk",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SouredMilk.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cat Figurine",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CatFigurine.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Madeleine's Glove",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MadeleinesGlove.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ceremonial Candelabrum",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CeremonialCandelabrum.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cat's Eye",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CatsEye.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bloody Black Hood",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BloodyBlackHood.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Baby Teeth",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BabyTeeth.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Weighty Rattle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WeightyRattle.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Stale Biscuit",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/StaleBiscuit.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Sewer Sludge",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SewerSludge.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rusted Needle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RustedNeedle.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Madeleine's Scarf",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MadeleinesScarf.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Victor's Soldier",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VictorsSoldier.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Spinning Top",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpinningTop.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Forest Stew",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ForestStew.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Drop of Perfume",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DropofPerfume.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Silencing Cloth",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SilencingCloth.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Pendant",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentPendant.webp"
                 },
                 {
                     "id": 21,
@@ -3915,103 +4015,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Trick Pouch",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TrickPouch.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Memento Blades",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MementoBlades.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Killing Part Chords",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/KillingPartChords.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Inferno Wires",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/InfernoWires.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tequila Moonrock",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TequilaMoonrock.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "On Target Single",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OnTargetSingle.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lucky Blade",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LuckyBlade.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ji-Woon's Autograph",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JiWoonsAutograph.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Caged Heart Shoes",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CagedHeartShoes.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Melodious Murder",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MelodiousMurder.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Waiting For You Watch",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WaitingForYouWatch.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ripper Brace",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RipperBrace.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Fizz-Spin Soda",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FizzSpinSoda.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bloody Boa",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BloodyBoa.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Trick Blades",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TrickBlades.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Edge of Revival Album",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EdgeofRevivalAlbum.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Diamond Cufflinks",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DiamondCufflinks.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cut Thru U Single",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CutThruUSingle.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Photocard",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentPhotocard.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Death Throes Compilation",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DeathThroesCompilation.webp"
                 },
                 {
                     "id": 21,
@@ -4042,103 +4142,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Visitor Wristband",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VisitorWristband.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "S.T.A.R.S. Field Combat Manual",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/STARSFieldCombatManual.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Damaged Syringe",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DamagedSyringe.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Brian's Intestine",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BriansIntestine.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Zombie Heart",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ZombieHeart.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mikhail's Eye",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MikhailsEye.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Marvin's Blood",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MarvinsBlood.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Adrenaline Injector",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AdrenalineInjector.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Admin Wristband",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AdminWristband.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tyrant Gore",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TyrantGore.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "T-Virus Sample",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TVirusSample.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Serotonin Injector",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SerotoninInjector.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Plant 43 Vines",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Plant43Vines.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Licker Tongue",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LickerTongue.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "NE-a Parasite",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/NEaParasite.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Jill's Sandwich",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JillsSandwich.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Depleted Ink Ribbon",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DepletedInkRibbon.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Broken Recovery Coin",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BrokenRecoveryCoin.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Shattered S.T.A.R.S. Badge",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ShatteredSTARSBadge.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Umbrella Badge",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentUmbrellaBadge.webp"
                 },
                 {
                     "id": 21,
@@ -4169,103 +4269,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Leather Strip",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LeatherStrip.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lively Crickets",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LivelyCrickets.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Burning Candle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BurningCandle.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bent Nail",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BentNail.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Wriggling Maggots",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WrigglingMaggots.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Spoiled Meal",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpoiledMeal.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Skewered Rat",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SkeweredRat.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Liquified Gore",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LiquifiedGore.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Flickering Television",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FlickeringTelevision.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Torture Pillar",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TorturePillar.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Slice of Frank",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SliceofFrank.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Larry's Remains",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LarrysRemains.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Larry's Blood",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LarrysBlood.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Frank's Heart",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FranksHeart.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Original Pain",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OriginalPain.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Impaling Wire",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ImpalingWire.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Greasy Black Lens",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GreasyBlackLens.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Chatterer's ToothTY",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChatterersTooth.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Lament Configuration",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentLamentConfiguration.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Engineer's Fang",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EngineersFang.webp"
                 },
                 {
                     "id": 21,
@@ -4296,103 +4396,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Vibrant Obituary",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VibrantObituary.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Thick Tar",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ThickTar.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Oil Paints",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OilPaints.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Choclo Corn",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChocloCorn.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Velvet Fabric",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VelvetFabric.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Untitled Agony",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UntitledAgony.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Still Life Crow",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/StillLifeCrow.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Festering Carrion",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FesteringCarrion.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Automatic Drawing",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AutomaticDrawing.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Thorny Nest",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ThornyNest.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Silver Bell",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SilverBell.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "O Grief, O Lover",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OGriefOLover.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Darkest Ink",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DarkestInk.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Charcoal Stick",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CharcoalStick.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Severed Tongue",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SeveredTongue.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Severed Hands",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SeveredHands.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Matias' Baby Shoes",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MatiasBabyShoes.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ink Egg",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/InkEgg.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Feather",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentFeather.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Garden of Rot",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GardenofRot.webp"
                 },
                 {
                     "id": 21,
@@ -4423,103 +4523,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Videotape Copy",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VideotapeCopy.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Old Newspaper",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OldNewspaper.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mother's Mirror",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MothersMirror.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Cabin Sign",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CabinSign.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Yoichi's Fishing Net",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/YoichisFishingNet.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Well Stone",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WellStone.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Sea-Soaked Cloth",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SeaSoakedCloth.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Reiko's Watch",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ReikosWatch.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Clump of Hair",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ClumpofHair.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Well Water",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WellWater.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ring Drawing",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RingDrawing.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Rickety Pinwheel",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RicketyPinwheel.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mother's Comb",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MothersComb.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bloody Fingernails",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BloodyFingernails.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "VCR",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VCR.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Telephone",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Telephone.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tape Editing Deck",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TapeEditingDeck.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Distorted Photo",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DistortedPhoto.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Remote Control",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RemoteControl.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Videotape",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentVideotape.webp"
                 },
                 {
                     "id": 21,
@@ -4550,103 +4650,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Wooden Plank",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WoodenPlank.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Mortar and Pestle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MortarandPestle.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Follower's Cowl",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FollowersCowl.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Caffeine Tablets",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CaffeineTablets.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Malthinker's Skull",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MalthinkersSkull.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Haddie's Calendar",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HaddiesCalendar.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Fallen Shingle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FallenShingle.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Burnt Letters",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BurntLetters.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Air Freshener",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/AirFreshener.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Worry Stone",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WorryStone.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "War Helmet",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/WarHelmet.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Ottomarian Writing",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OttomarianWriting.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Destroyed Pillow",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DestroyedPillow.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Broken Doll",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BrokenDoll.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Tilling Blade",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TillingBlade.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lavalier Microphone",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LavalierMicrophone.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Field Recorder",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FieldRecorder.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Boat Key",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BoatKey.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Sacrificial Knife",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SacrificialKnife.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Wooden Plank",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentWoodenPlank.webp"
                 },
                 {
                     "id": 21,
@@ -4677,103 +4777,103 @@
             "addOns":[
                 {
                     "id": 1,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Jewel Beetle",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JewelBeetle.webp"
                 },
                 {
                     "id": 2,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Unicorn Medallion",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UnicornMedallion.webp"
                 },
                 {
                     "id": 3,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "R.P.D. Shoulder Walkie",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RPDShoulderWalkie.webp"
                 },
                 {
                     "id": 4,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Uroboros Tendril",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UroborosTendril.webp"
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Loose Crank",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LooseCrank.webp"
                 },
                 {
                     "id": 6,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Leather Gloves",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LeatherGloves.webp"
                 },
                 {
                     "id": 7,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lion Medallion",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LionMedallion.webp"
                 },
                 {
                     "id": 8,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Chalice (Gold)",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ChaliceGold.webp"
                 },
                 {
                     "id": 9,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Bullhorn",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Bullhorn.webp"
                 },
                 {
                     "id": 10,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Portable Safe",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/PortableSafe.webp"
                 },
                 {
                     "id": 11,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Red Herb",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RedHerb.webp"
                 },
                 {
                     "id": 12,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Maiden Medallion",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MaidenMedallion.webp"
                 },
                 {
                     "id": 13,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Video Conference Device",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/VideoConferenceDevice.webp"
                 },
                 {
                     "id": 14,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Egg (Gold)",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EggGold.webp"
                 },
                 {
                     "id": 15,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Dark Sunglasses",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DarkSunglasses.webp"
                 },
                 {
                     "id": 16,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Green Herb",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GreenHerb.webp"
                 },
                 {
                     "id": 17,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Helicopter Stick",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HelicopterStick.webp"
                 },
                 {
                     "id": 18,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Uroboros Virus",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/UroborosVirus.webp"
                 },
                 {
                     "id": 19,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Lab Photo",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LabPhoto.webp"
                 },
                 {
                     "id": 20,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Iridescent Uroboros Vial",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentUroborosVial.webp"
                 },
                 {
                     "id": 21,
@@ -5300,46 +5400,228 @@
             "image": "https://dbd-randomizer.com/Images/S0/Killer/Perks/90/ZanshinTactics.webp"
         }
     ],
-    "killerItems": [
-        {
-            "id": 1,
-            "name": "Item 1"
-        },
-        {
-            "id": 2,
-            "name": "Item 2"
-        },
-        {
-            "id": 3,
-            "name": "Item 3"
-        }
-    ],
     "killerOfferings": [
         {
             "id": 1,
-            "name": "Offering 1"
+            "name": "Bloodied Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/BloodiedBlueprint.webp"
         },
         {
             "id": 2,
-            "name": "Offering 2"
+            "name": "Torn Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/TornBlueprint.webp"
+
         },
         {
             "id": 3,
-            "name": "Offering 3"
+            "name": "Scratched Coin",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ScratchedCoin.webp"
+
+        },
+        {
+            "id": 4,
+            "name": "Cut Coin",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/CutCoin.webp"
+
+        },
+        {
+            "id": 5,
+            "name": "Clear Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ClearReagent.webp"
+
+        },
+        {
+            "id": 6,
+            "name": "Faint Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/FaintReagent.webp"
+
+        },
+        {
+            "id": 7,
+            "name": "Hazy Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/HazyReagent.webp"
+
+        },
+        {
+            "id": 8,
+            "name": "Murky Reagent",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/MurkyReagent.webp"
+
+        },
+        {
+            "id": 9,
+            "name": "Annotated Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/AnnotatedBlueprint.webp"
+
+        },
+        {
+            "id": 10,
+            "name": "Vigo's Blueprint",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/VigosBlueprint.webp"
+
+        },
+        {
+            "id": 11,
+            "name": "Mouldy Oak",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/MouldyOak.webp"
+
+        },
+        {
+            "id": 12,
+            "name": "Rotten Oak",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/RottenOak.webp"
+
+        },
+        {
+            "id": 13,
+            "name": "Putrid Oak",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/PutridOak.webp"
+
+        },
+        {
+            "id": 14,
+            "name": "Cypress Memento Mori",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/CypressMementoMori.webp"
+
+        },
+        {
+            "id": 15,
+            "name": "Ivory Memento Mori",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/IvoryMementoMori.webp"
+
+        },
+        {
+            "id": 16,
+            "name": "Ebony Memento Mori",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/EbonyMementoMori.webp"
+
+        },
+        {
+            "id": 17,
+            "name": "Shroud of Separation",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ShroudofSeparation.webp"
+
+        },
+        {
+            "id": 18,
+            "name": "Sacrificial Ward",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/SacrificialWard.webp"
+
+        },
+        {
+            "id": 19,
+            "name": "Any",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/Any.webp"
+
+        },
+        {
+            "id": 20,
+            "name": "None",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/None.webp"
+
         }
     ],
     "maps": [
         {
             "id": 1,
-            "name": "The Game"
+            "name": "Autohaven Wreckers",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/AzarovsKey.webp"
         },
         {
             "id": 2,
-            "name": "Suffocation Pit"
+            "name": "Backwater Swamp",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/GrandmasCookbook.webp"
+
         },
         {
             "id": 3,
-            "name": "Coal Tower"
+            "name": "Coldwind Farm",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/HeartLocket.webp"
+
+        },
+        {
+            "id": 4,
+            "name": "Crotus Prenn",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/CharredWeddingPhotograph.webp"
+
+        },
+        {
+            "id": 5,
+            "name": "Forsaken Boneyard",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/CrowsEye.webp"
+
+        },
+        {
+            "id": 6,
+            "name": "Gideon Meat Plant",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/JigsawPiece.webp"
+
+        },
+        {
+            "id": 7,
+            "name": "Grave of Glenvale",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/DustyNoose.webp"
+
+        },
+        {
+            "id": 8,
+            "name": "Haddonfield",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/StrodeRealtyKey.webp"
+
+        },
+        {
+            "id": 9,
+            "name": "Léry's Memorial Institute",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ShatteredGlasses.webp"
+
+        },
+        {
+            "id": 10,
+            "name": "The MacMillan Estate",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/MacMillansPhalanxBone.webp"
+
+        },
+        {
+            "id": 11,
+            "name": "Ormond",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/DamagedPhoto.webp"
+
+        },
+        {
+            "id": 12,
+            "name": "Raccoon City",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/RPDBadge.webp"
+
+        },
+        {
+            "id": 13,
+            "name": "Red Forest",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/TheLastMask.webp"
+
+        },
+        {
+            "id": 14,
+            "name": "Silent Hill",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/MarysLetter.webp"
+
+        },
+        {
+            "id": 15,
+            "name": "Springwood",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ThePiedPiper.webp"
+
+        },
+        {
+            "id": 16,
+            "name": "Withered Isle",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/IchorousLoam.webp"
+
+        },
+        {
+            "id": 17,
+            "name": "Yamaoka Estate",
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/YamaokaFamilyCrest.webp"
+
         }
     ]
 }
