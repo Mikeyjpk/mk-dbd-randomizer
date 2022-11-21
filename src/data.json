@@ -815,285 +815,6 @@
             "image": "https://dbd-randomizer.com/Images/S0/Survivor/Perks/90/Wiretap.webp"
         }
     ],
-    "survivorItemAddons": [
-        {
-            "id": 1,
-            "name": "Scraps",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp",
-            "itemIds" : [1, 2, 3, 4, 5]
-        },
-        {
-            "id": 2,
-            "name": "Instructions",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Instructions.webp"
-        },
-        {
-            "id": 3,
-            "name": "Clean Rag",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CleanRag.webp"
-        },
-        {
-            "id": 4,
-            "name": "Wire Spool",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WireSpool.webp"
-        },
-        {
-            "id": 5,
-            "name": "Spring Clamp",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SpringClamp.webp"
-        },
-        {
-            "id": 6,
-            "name": "Socket Swivels",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SocketSwivels.webp"
-        },
-        {
-            "id": 7,
-            "name": "Protective Gloves",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ProtectiveGloves.webp"
-        },
-        {
-            "id": 8,
-            "name": "Cutting Wire",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CuttingWire.webp"
-        },
-        {
-            "id": 9,
-            "name": "Hacksaw",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Hacksaw.webp"
-        },
-        {
-            "id": 10,
-            "name": "Grip Wrench",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GripWrench.webp"
-        },
-        {
-            "id": 11,
-            "name": "Brand New Part",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BrandNewPart.webp"
-        },
-        {
-            "id": 12,
-            "name": "Rubber Gloves",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGloves.webp"
-        },
-        {
-            "id": 13,
-            "name": "Butterfly Tape",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ButterflyTape.webp"
-        },
-        {
-            "id": 14,
-            "name": "Bandages",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Bandages.webp"
-        },
-        {
-            "id": 15,
-            "name": "Sponge",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Sponge.webp"
-        },
-        {
-            "id": 16,
-            "name": "Self Adherent Wrap",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SelfAdherentWrap.webp"
-        },
-        {
-            "id": 17,
-            "name": "Needle & Thread",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/NeedleThread.webp"
-        },
-        {
-            "id": 18,
-            "name": "Medical Scissors",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MedicalScissors.webp"
-        },
-        {
-            "id": 19,
-            "name": "Gauze Roll",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GauzeRoll.webp"
-        },
-        {
-            "id": 20,
-            "name": "Surgical Suture",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SurgicalSuture.webp"
-        },
-        {
-            "id": 21,
-            "name": "Gel Dressings",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GelDressings.webp"
-        },
-        {
-            "id": 22,
-            "name": "Abdominal Dressing",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AbdominalDressing.webp"
-        },
-        {
-            "id": 23,
-            "name": "Styptic Agent",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/StypticAgent.webp"
-        },
-        {
-            "id": 24,
-            "name": "Anti-Haemorrhagic Syringe",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AntiHaemorrhagicSyringe.webp"
-        },
-        {
-            "id": 25,
-            "name": "Map Addendum",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MapAddendum.webp"
-        },
-        {
-            "id": 26,
-            "name": "Yellow Wire",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/YellowWire.webp"
-        },
-        {
-            "id": 27,
-            "name": "Unusual Stamp",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UnusualStamp.webp"
-        },
-        {
-            "id": 28,
-            "name": "Retardant Jelly",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RetardantJelly.webp"
-        },
-        {
-            "id": 29,
-            "name": "Red Twine",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RedTwine.webp"
-        },
-        {
-            "id": 30,
-            "name": "Glass Bead",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GlassBead.webp"
-        },
-        {
-            "id": 31,
-            "name": "Odd Stamp",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddStamp.webp"
-        },
-        {
-            "id": 32,
-            "name": "Black Silk Cord",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BlackSilkCord.webp"
-        },
-        {
-            "id": 33,
-            "name": "Crystal Bead",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CrystalBead.webp"
-        },
-        {
-            "id": 34,
-            "name": "Prayer Rope",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerRope.webp"
-        },
-        {
-            "id": 35,
-            "name": "Scratched Pearl",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ScratchedPearl.webp"
-        },
-        {
-            "id": 36,
-            "name": "Prayer Beads",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerBeads.webp"
-        },
-        {
-            "id": 37,
-            "name": "Eroded Token",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ErodedToken.webp"
-        },
-        {
-            "id": 38,
-            "name": "Gold Token",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GoldToken.webp"
-        },
-        {
-            "id": 39,
-            "name": "Weaved Ring",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WeavedRing.webp"
-        },
-        {
-            "id": 40,
-            "name": "Milky Glass",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MilkyGlass.webp"
-        },
-        {
-            "id": 41,
-            "name": "Blood Amber",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BloodAmber.webp"
-        },
-        {
-            "id": 42,
-            "name": "Unique Wedding Ring",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UniqueWeddingRing.webp"
-        },
-        {
-            "id": 43,
-            "name": "Wide Lense",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WideLense.webp"
-        },
-        {
-            "id": 44,
-            "name": "Power Bulb",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PowerBulb.webp"
-        },
-        {
-            "id": 45,
-            "name": "Leather Grip",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LeatherGrip.webp"
-        },
-        {
-            "id": 46,
-            "name": "Battery",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Battery.webp"
-        },
-        {
-            "id": 47,
-            "name": "TIR Optic",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/TIROptic.webp"
-        },
-        {
-            "id": 48,
-            "name": "Rubber Grip",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGrip.webp"
-        },
-        {
-            "id": 49,
-            "name": "Low Amp Filament",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LowAmpFilament.webp"
-        },
-        {
-            "id": 50,
-            "name": "Heavy Duty Battery",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HeavyDutyBattery.webp"
-        },
-        {
-            "id": 51,
-            "name": "Focus Lens",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/FocusLens.webp"
-        },
-        {
-            "id": 52,
-            "name": "Long Life Battery",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LongLifeBattery.webp"
-        },
-        {
-            "id": 53,
-            "name": "Intense Halogen",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/IntenseHalogen.webp"
-        },
-        {
-            "id": 54,
-            "name": "High-End Sapphire Lens",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HighEndSapphireLens.webp"
-        },
-        {
-            "id": 55,
-            "name": "Odd Bulb",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddBulb.webp"
-        }
-
-    ],
     "survivorOfferings": [
         {
             "id": 1,
@@ -5623,5 +5344,292 @@
             "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/YamaokaFamilyCrest.webp"
 
         }
+    ],
+    "toolBoxAddOns": [
+        {
+            "id": 1,
+            "name": "Scraps",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp",
+            "itemIds" : [1, 2, 3, 4, 5]
+        },
+        {
+            "id": 2,
+            "name": "Instructions",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Instructions.webp"
+        },
+        {
+            "id": 3,
+            "name": "Clean Rag",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CleanRag.webp"
+        },
+        {
+            "id": 4,
+            "name": "Wire Spool",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WireSpool.webp"
+        },
+        {
+            "id": 5,
+            "name": "Spring Clamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SpringClamp.webp"
+        },
+        {
+            "id": 6,
+            "name": "Socket Swivels",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SocketSwivels.webp"
+        },
+        {
+            "id": 7,
+            "name": "Protective Gloves",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ProtectiveGloves.webp"
+        },
+        {
+            "id": 8,
+            "name": "Cutting Wire",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CuttingWire.webp"
+        },
+        {
+            "id": 9,
+            "name": "Hacksaw",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Hacksaw.webp"
+        },
+        {
+            "id": 10,
+            "name": "Grip Wrench",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GripWrench.webp"
+        },
+        {
+            "id": 11,
+            "name": "Brand New Part",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BrandNewPart.webp"
+        }
+    ],
+    "medKitAddOns":[
+        {
+            "id": 1,
+            "name": "Rubber Gloves",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGloves.webp"
+        },
+        {
+            "id": 2,
+            "name": "Butterfly Tape",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ButterflyTape.webp"
+        },
+        {
+            "id": 3,
+            "name": "Bandages",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Bandages.webp"
+        },
+        {
+            "id": 4,
+            "name": "Sponge",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Sponge.webp"
+        },
+        {
+            "id": 5,
+            "name": "Self Adherent Wrap",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SelfAdherentWrap.webp"
+        },
+        {
+            "id": 6,
+            "name": "Needle & Thread",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/NeedleThread.webp"
+        },
+        {
+            "id": 7,
+            "name": "Medical Scissors",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MedicalScissors.webp"
+        },
+        {
+            "id": 8,
+            "name": "Gauze Roll",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GauzeRoll.webp"
+        },
+        {
+            "id": 9,
+            "name": "Surgical Suture",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/SurgicalSuture.webp"
+        },
+        {
+            "id": 10,
+            "name": "Gel Dressings",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GelDressings.webp"
+        },
+        {
+            "id": 11,
+            "name": "Abdominal Dressing",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AbdominalDressing.webp"
+        },
+        {
+            "id": 12,
+            "name": "Styptic Agent",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/StypticAgent.webp"
+        },
+        {
+            "id": 13,
+            "name": "Anti-Haemorrhagic Syringe",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/AntiHaemorrhagicSyringe.webp"
+        }
+    ],
+    "flashlightAddOns": [
+        {
+            "id": 1,
+            "name": "Wide Lense",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WideLense.webp"
+        },
+        {
+            "id": 2,
+            "name": "Power Bulb",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PowerBulb.webp"
+        },
+        {
+            "id": 3,
+            "name": "Leather Grip",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LeatherGrip.webp"
+        },
+        {
+            "id": 4,
+            "name": "Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Battery.webp"
+        },
+        {
+            "id": 5,
+            "name": "TIR Optic",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/TIROptic.webp"
+        },
+        {
+            "id": 6,
+            "name": "Rubber Grip",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RubberGrip.webp"
+        },
+        {
+            "id": 7,
+            "name": "Low Amp Filament",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LowAmpFilament.webp"
+        },
+        {
+            "id": 8,
+            "name": "Heavy Duty Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HeavyDutyBattery.webp"
+        },
+        {
+            "id": 9,
+            "name": "Focus Lens",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/FocusLens.webp"
+        },
+        {
+            "id": 10,
+            "name": "Long Life Battery",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/LongLifeBattery.webp"
+        },
+        {
+            "id": 11,
+            "name": "Intense Halogen",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/IntenseHalogen.webp"
+        },
+        {
+            "id": 12,
+            "name": "High-End Sapphire Lens",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/HighEndSapphireLens.webp"
+        },
+        {
+            "id": 13,
+            "name": "Odd Bulb",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddBulb.webp"
+        }
+    ],
+    "mapAddOns": [
+        {
+            "id": 1,
+            "name": "Map Addendum",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MapAddendum.webp"
+        },
+        {
+            "id": 2,
+            "name": "Yellow Wire",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/YellowWire.webp"
+        },
+        {
+            "id": 3,
+            "name": "Unusual Stamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UnusualStamp.webp"
+        },
+        {
+            "id": 4,
+            "name": "Retardant Jelly",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RetardantJelly.webp"
+        },
+        {
+            "id": 5,
+            "name": "Red Twine",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/RedTwine.webp"
+        },
+        {
+            "id": 6,
+            "name": "Glass Bead",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GlassBead.webp"
+        },
+        {
+            "id": 7,
+            "name": "Odd Stamp",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/OddStamp.webp"
+        },
+        {
+            "id": 8,
+            "name": "Black Silk Cord",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BlackSilkCord.webp"
+        },
+        {
+            "id": 9,
+            "name": "Crystal Bead",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/CrystalBead.webp"
+        }
+    ],
+    "keyAddOns": [
+        {
+            "id": 1,
+            "name": "Prayer Rope",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerRope.webp"
+        },
+        {
+            "id": 2,
+            "name": "Scratched Pearl",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ScratchedPearl.webp"
+        },
+        {
+            "id": 3,
+            "name": "Prayer Beads",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/PrayerBeads.webp"
+        },
+        {
+            "id": 4,
+            "name": "Eroded Token",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/ErodedToken.webp"
+        },
+        {
+            "id": 5,
+            "name": "Gold Token",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/GoldToken.webp"
+        },
+        {
+            "id": 6,
+            "name": "Weaved Ring",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/WeavedRing.webp"
+        },
+        {
+            "id": 7,
+            "name": "Milky Glass",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/MilkyGlass.webp"
+        },
+        {
+            "id": 8,
+            "name": "Blood Amber",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/BloodAmber.webp"
+        },
+        {
+            "id": 9,
+            "name": "Unique Wedding Ring",
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UniqueWeddingRing.webp"
+        }
     ]
+
 }

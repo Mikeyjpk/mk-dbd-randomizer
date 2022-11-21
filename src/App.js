@@ -1,8 +1,14 @@
-// import data from './data.json';                                              <? deleted these? not being used
-// import { getRandomItem, getRandomSet } from './components/constants';
-// import Killer from './components/Killer';
-// import KillerPerk from './components/KillerPerk';
-import "./App.css";
+/*	import data from './data.json';                                              <? deleted these? not being used
+	import { getRandomItem, getRandomSet } from './components/constants';
+	import Killer from './components/Killer';
+	import KillerPerk from './components/KillerPerk'; 							*/
+
+
+
+
+/*	import "./App.css"; 				turned off while working on input*/
+
+
 import KillerRandomizer from './components/KillerRandomizer';
 import KillerPerkRandomizer from './components/KillerPerkRandomizer';
 import SurvivorRandomizer from './components/SurvivorRandomizer';
