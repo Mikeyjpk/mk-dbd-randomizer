@@ -1,17 +1,16 @@
-/* this is broken 
+
 
 import React from 'react';
 import { getRandomSet } from './constants';
 import KillerAddon from './KillerAddon';
 import data from '../data.json';
 
-const KillerAddonRandomizer = () => {
-	const KillerAddons = getRandomSet(data.Killers.addOns, 2);	
-
+const KillerAddonRandomizer = ({ killer }) => {
+	const addons = getRandomSet(killer.addOns, 2);
 	return (
-		<div className="KillerAddons">
-			{KillerAddons.map(killerAddon => 
-				<KillerAddon key={killerAddon.name} name={killerAddon.name} image={killerAddon.image} />
+		<div className="killer-addons">
+			{addons.map(addon => 
+				<KillerAddon key={addon.name} name={addon.name} image={addon.image} />
 			)}
 		</div>
 	)
@@ -19,4 +18,3 @@ const KillerAddonRandomizer = () => {
 
 export default KillerAddonRandomizer;
 
-*/

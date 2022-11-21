@@ -17,13 +17,12 @@ const App = () => {
     <div className="App">
         <SurvivorRandomizer />
 		<SurvivorItemRandomizer />
-    <ItemAddonRandomizer />
+		<ItemAddonRandomizer />
 		<SurvivorPerkRandomizer />
-    <MapRandomizer />
-    <br></br>
+		<MapRandomizer />
 		<KillerRandomizer />
 		<KillerPerkRandomizer />
-    <MapRandomizer />
+		<MapRandomizer />
     </div>
   );
 }
