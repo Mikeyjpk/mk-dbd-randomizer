@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SurvivorPerk = ({ name, image }) => {
+const ItemAddon = ({ name, image }) => {
 	return (
 		<div>
 			<div>{name }</div>
@@ -9,4 +9,4 @@ const SurvivorPerk = ({ name, image }) => {
 	);
 }
 
-export default SurvivorPerk;
+export default ItemAddon;
