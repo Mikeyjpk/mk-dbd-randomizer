@@ -7,6 +7,7 @@ import data from '../data.json';
 
 const KillerAddonRandomizer = ({ killer }) => {
 	const addons = getRandomSet(killer.addOns, 2);
+
 	return (
 		<div className="killer-addons">
 			{addons.map(addon => 

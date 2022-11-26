@@ -170,82 +170,98 @@
         {
             "id": 1,
             "name": "Worn-Out Tools",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/WornOutTools.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/WornOutTools.webp",
+            "itemType": "toolbox"
         },
         {
             "id": 2,
             "name": "Mechanic's Toolbox",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/MechanicsToolbox.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/MechanicsToolbox.webp",
+            "itemType": "toolbox"
         },
         {
             "id": 3,
             "name": "Commodious Toolbox",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CommodiousToolbox.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CommodiousToolbox.webp",
+            "itemType": "toolbox"
         },
         {
             "id": 4,
             "name": "Engineer's Toolbox",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EngineersToolbox.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EngineersToolbox.webp",
+            "itemType": "toolbox"
         },
         {
             "id": 5,
             "name": "Alex's Toolbox",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/AlexsToolbox.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/AlexsToolbox.webp",
+            "itemType": "toolbox"
         },
         {
             "id": 6,
             "name": "Camping Aid Kit",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CampingAidKit.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/CampingAidKit.webp",
+            "itemType": "medkit"
         },
         {
             "id": 7,
             "name": "Emergency Med-Kit",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EmergencyMedKit.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/EmergencyMedKit.webp",
+            "itemType": "medkit"
         },
         {
             "id": 8,
             "name": "Ranger Med-Kit",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RangerMedKit.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RangerMedKit.webp",
+            "itemType": "medkit"
         },
         {
             "id": 9,
             "name": "Map",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Map.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Map.webp",
+            "itemType": "map"
         },
         {
             "id": 10,
             "name": "Rainbow Map",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RainbowMap.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/RainbowMap.webp",
+            "itemType": "map"
         },
         {
             "id": 11,
             "name": "Skeleton Key",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SkeletonKey.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SkeletonKey.webp",
+            "itemType": "key"
         },
         {
             "id": 12,
             "name": "Broken Key",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/BrokenKey.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/BrokenKey.webp",
+            "itemType": "key"
         },
         {
             "id": 13,
             "name": "Dull Key",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/DullKey.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/DullKey.webp",
+            "itemType": "key"
         },
         {
             "id": 14,
             "name": "Flashlight",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Flashlight.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/Flashlight.webp",
+            "itemType": "flashlight"
         },
         {
             "id": 15,
             "name": "Sport Flashlight",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SportFlashlight.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/SportFlashlight.webp",
+            "itemType": "flashlight"
         },
         {
             "id": 16,
             "name": "Utility Flashlight",
-            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/UtilityFlashlight.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Survivor/Items/100/UtilityFlashlight.webp",
+            "itemType": "flashlight"
         }
     ],
     "survivorPerks":[
@@ -909,7 +925,7 @@
         {
             "id": 19,
             "name": "Shroud of Binding",
-            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudofBinding.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudOfBinding.webp"
         },
         {
             "id": 20,
@@ -919,7 +935,7 @@
         {
             "id": 21,
             "name": "Shroud of Union",
-            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudofUnion.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/100/ShroudOfUnion.webp"
         },
         {
             "id": 22,
@@ -960,8 +976,8 @@
                 },
                 {
                     "id": 5,
-                    "name": "EMPTY",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/EMPTY.webp"
+                    "name": "Trapper Sack",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TrapperSack.webp"
                 },
                 {
                     "id": 6,
@@ -980,7 +996,7 @@
                 },
                 {
                     "id": 9,
-                    "name": "CoffeeGrounds",
+                    "name": "Coffee Grounds",
                     "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CoffeeGrounds.webp"
                 },
                 {
@@ -1060,7 +1076,7 @@
                 }
             ]
         },
-        {
+        { 
             "id": 2,
             "name": "The Wraith",
             "image":"https://dbd-randomizer.com/Images/S0/Killer/Killers/210/TheWraith.webp",
@@ -1226,7 +1242,7 @@
                 {
                     "id": 7,
                     "name": "Off-Brand Motor Oil",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OffBrandMotorOil.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OffbrandMotorOil.webp"
                 },
                 {
                     "id": 8,
@@ -1285,8 +1301,8 @@
                 },
                 {
                     "id": 19,
-                    "name": "ApexMuffler",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Apex Muffler.webp"
+                    "name": "Apex Muffler",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ApexMuffler.webp"
                 },
                 {
                     "id": 20,
@@ -1475,7 +1491,7 @@
                 {
                     "id": 6,
                     "name": "Jewellery",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Jewellery.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/Jewelry.webp"
                 },
                 {
                     "id": 7,
@@ -1505,7 +1521,7 @@
                 {
                     "id": 12,
                     "name": "Jewellery Box",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JewelleryBox.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/JewelryBox.webp"
                 },
                 {
                     "id": 13,
@@ -1535,7 +1551,7 @@
                 {
                     "id": 18,
                     "name": "Lock of Hair",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LockofHair.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/LockOfHair.webp"
                 },
                 {
                     "id": 19,
@@ -1545,7 +1561,7 @@
                 {
                     "id": 20,
                     "name": "Fragrant Tuft of Hair",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FragrantTuftofHair.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FragrantTuftOfHair.webp"
                 },
                 {
                     "id": 21,
@@ -1713,13 +1729,13 @@
                 },
                 {
                     "id": 3,
-                    "name": "'Order' - Class I",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OrderClassI.webp"
+                    "name": "'Order' - itemType I",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OrderitemTypeI.webp"
                 },
                 {
                     "id": 4,
-                    "name": "'Calm' - Class I",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CalmClassI.webp"
+                    "name": "'Calm' - itemType I",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CalmitemTypeI.webp"
                 },
                 {
                     "id": 5,
@@ -1728,23 +1744,23 @@
                 },
                 {
                     "id": 6,
-                    "name": "'Restraint' - Class II",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RestraintClassII.webp"
+                    "name": "'Restraint' - itemType II",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RestraintitemTypeII.webp"
                 },
                 {
                     "id": 7,
-                    "name": "'Order' - Class II",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OrderClassII.webp"
+                    "name": "'Order' - itemType II",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/OrderitemTypeII.webp"
                 },
                 {
                     "id": 8,
-                    "name": "'Discipline' - Class II",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DisciplineClassII.webp"
+                    "name": "'Discipline' - itemType II",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DisciplineitemTypeII.webp"
                 },
                 {
                     "id": 9,
-                    "name": "'Calm '- Class II",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CalmClassII.webp"
+                    "name": "'Calm '- itemType II",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CalmitemTypeII.webp"
                 },
                 {
                     "id": 10,
@@ -1763,13 +1779,13 @@
                 },
                 {
                     "id": 13,
-                    "name": "'Restraint' - Class III",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RestraintClassIII.webp"
+                    "name": "'Restraint' - itemType III",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RestraintitemTypeIII.webp"
                 },
                 {
                     "id": 14,
-                    "name": "'Discipline' - Class III",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DisciplineClassIII.webp"
+                    "name": "'Discipline' - itemType III",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DisciplineitemTypeIII.webp"
                 },
                 {
                     "id": 15,
@@ -2165,8 +2181,8 @@
                 },
                 {
                     "id": 17,
-                    "name": "Class Photo",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ClassPhoto.webp"
+                    "name": "itemType Photo",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/itemTypePhoto.webp"
                 },
                 {
                     "id": 18,
@@ -2278,7 +2294,7 @@
                 {
                     "id": 14,
                     "name": "Bag of Gears",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BagofGears.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BagOfGears.webp"
                 },
                 {
                     "id": 15,
@@ -2293,7 +2309,7 @@
                 {
                     "id": 17,
                     "name": "Crate of Gears",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CrateofGears.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/CrateOfGears.webp"
                 },
                 {
                     "id": 18,
@@ -2390,27 +2406,27 @@
                 {
                     "id": 11,
                     "name": "Spirit of Hartshorn",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpiritofHartshorn.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpiritOfHartshorn.webp"
                 },
                 {
                     "id": 12,
-                    "name": "Spirit of Hartshorn",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SpiritofHartshorn.webp"
+                    "name": "Smelly Inner Soles",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SmellyInnerSoles.webp"
                 },
                 {
                     "id": 13,
                     "name": "Flask of Bleach",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FlaskofBleach.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/FlaskOfBleach.webp"
                 },
                 {
                     "id": 14,
                     "name": "Bottle of Chloroform",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BottleofChloroform.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/BottleOfChloroform.webp"
                 },
                 {
                     "id": 15,
                     "name": "Garish Make-Up Kit",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GarishMakeUpKit.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GarishMakeupKit.webp"
                 },
                 {
                     "id": 16,
@@ -2434,8 +2450,8 @@
                 },
                 {
                     "id": 20,
-                    "name": "Redhead's Pinkie Finger",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RedheadsPinkieFinger.webp"
+                    "name": "Redhead's Pinky Finger",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/RedheadsPinkyFinger.webp"
                 },
                 {
                     "id": 21,
@@ -2750,8 +2766,8 @@
                 },
                 {
                     "id": 7,
-                    "name": "Haematite Seal",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HaematiteSeal.webp"
+                    "name": "Hematite Seal",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HematiteSeal.webp"
                 },
                 {
                     "id": 8,
@@ -3288,8 +3304,8 @@
                 },
                 {
                     "id": 13,
-                    "name": "Honey Locust Thorn",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HoneyLocustThorn.webp"
+                    "name": "Honey Locust Thorns",
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/HoneyLocustThorns.webp"
                 },
                 {
                     "id": 14,
@@ -3406,7 +3422,7 @@
                 {
                     "id": 11,
                     "name": "Tablet of the Oppressor",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TabletoftheOppressor.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/TabletOfTheOppressor.webp"
                 },
                 {
                     "id": 12,
@@ -3451,7 +3467,7 @@
                 {
                     "id": 20,
                     "name": "Iridescent Seal of Metatron",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentSealofMetatron.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/IridescentSealOfMetatron.webp"
                 },
                 {
                     "id": 21,
@@ -3695,7 +3711,7 @@
                 {
                     "id": 18,
                     "name": "Drop of Perfume",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DropofPerfume.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/DropOfPerfume.webp"
                 },
                 {
                     "id": 19,
@@ -4041,7 +4057,7 @@
                 {
                     "id": 11,
                     "name": "Slice of Frank",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SliceofFrank.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/SliceOfFrank.webp"
                 },
                 {
                     "id": 12,
@@ -4213,7 +4229,7 @@
                 {
                     "id": 20,
                     "name": "Garden of Rot",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GardenofRot.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/GardenOfRot.webp"
                 },
                 {
                     "id": 21,
@@ -4285,7 +4301,7 @@
                 {
                     "id": 9,
                     "name": "Clump of Hair",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ClumpofHair.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/ClumpOfHair.webp"
                 },
                 {
                     "id": 10,
@@ -4377,7 +4393,7 @@
                 {
                     "id": 2,
                     "name": "Mortar and Pestle",
-                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MortarandPestle.webp"
+                    "image": "https://dbd-randomizer.com/Images/S0/Killer/AddOns/50/MortarAndPestle.webp"
                 },
                 {
                     "id": 3,
@@ -5220,7 +5236,7 @@
         {
             "id": 17,
             "name": "Shroud of Separation",
-            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ShroudofSeparation.webp"
+            "image": "https://dbd-randomizer.com/Images/S0/Offerings/200/ShroudOfSeparation.webp"
 
         },
         {
@@ -5349,8 +5365,7 @@
         {
             "id": 1,
             "name": "Scraps",
-            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp",
-            "itemIds" : [1, 2, 3, 4, 5]
+            "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/Scraps.webp"
         },
         {
             "id": 2,

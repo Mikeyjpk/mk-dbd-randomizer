@@ -30,7 +30,7 @@ export const getRandomSet = (array, maxItemsToTake) => {
 	//get a copy of the array so that we don't manipulate/destroy the original array
 	const arrayCopy = [...array];
 
-	for(let x = 0; x < maxItemsToTake && x < arrayCopy.length; x++){
+	for(let x = 0; x < maxItemsToTake && arrayCopy.length > 0; x++){
 
 		//get the random index from the array
 		const randomIndex = getRandomNumber(arrayCopy.length);
@@ -44,5 +44,14 @@ export const getRandomSet = (array, maxItemsToTake) => {
 		//remove that item from the array so it can't be picked again
 		arrayCopy.splice(randomIndex, 1);
 	}
+
 	return randomItems;
+}
+
+export const survivorItemType = {
+	toolbox: 'toolbox',
+	medkit: 'medkit',
+	flashlight: 'flashlight',
+	map: 'map',
+	key: 'key'
 }

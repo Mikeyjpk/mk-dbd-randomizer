@@ -1,14 +1,37 @@
 import React from 'react';
-import { getRandomSet } from './constants';
+import { getRandomSet, survivorItemType } from './constants';
 import ItemAddon from './ItemAddon';
 import data from '../data.json';
 
-const ItemAddonRandomizer = () => {
-	const ItemAddons = getRandomSet(data.survivorItemAddons, 2);
+let ItemAddonRandomizer = ({ item }) => {
+
+	let possibleAddons = [];
+
+	switch(item.itemType){
+		case survivorItemType.toolbox:
+			possibleAddons = data.toolBoxAddOns;
+			break;
+		case survivorItemType.flashlight:
+			possibleAddons = data.flashlightAddOns;
+			break;
+		case survivorItemType.key:
+			possibleAddons = data.keyAddOns;
+			break;
+		case survivorItemType.medkit:
+			possibleAddons = data.medkit;
+			break;
+		case survivorItemType.map:
+			possibleAddons = data.mapAddOns;
+			break;
+		default:
+			return <div>unknown survivor item type {item.itemType}</div>;
+	}
+
+	const selectedAddons = getRandomSet(possibleAddons, 2);
 
 	return (
 		<div className="Addons">
-			{ItemAddons.map(itemAddon => 
+			{selectedAddons.map(itemAddon => 
 				<ItemAddon key={itemAddon.name} name={itemAddon.name} image={itemAddon.image} />
 			)}
 		</div>
