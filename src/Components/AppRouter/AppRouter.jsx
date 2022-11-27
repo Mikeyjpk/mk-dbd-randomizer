@@ -13,14 +13,10 @@ const AppRouter = () => {
 		<BrowserRouter>
 			<Routes>
 				<Route path="/" element={<View component={Landing} />} />
-				<Route path="/killers">
-					<Route index element={<View component={Killers} />} />
-					<Route path=":killerId" element={<View component={Killer} />} />
-				</Route>
-				<Route path="/survivors">
-					<Route index element={<View component={Survivors} />} />
-					<Route path=":survivorId" element={<View component={Survivor} />} />
-				</Route>
+				<Route path="/killers" element={<View component={Killers} />} />
+				<Route path="/killers/:killerId" element={<View component={Killer} />} />
+				<Route path="/survivors" element={<View component={Survivors} />} />
+				<Route path="/survivors/:survivorId" element={<View component={Survivor} />} />
 				<Route path="/randomizer" element={<View component={Randomizer} />} />
 			</Routes>
 		</BrowserRouter>
