@@ -1,13 +1,12 @@
 import React from 'react';
-import { getRandomSet, survivorItemType } from './constants';
-import ItemAddon from './ItemAddon';
-import data from '../data.json';
+import { getRandomSet, survivorItemType } from './RandomizerConstants';
+import SurvivorItemAddon from '../Survivors/SurvivorItemAddon';
+import data from '../../data.json';
 
-let ItemAddonRandomizer = ({ item }) => {
-
+const SurvivorItemAddonRandomizer = ({ item }) => {
 	let possibleAddons = [];
 
-	switch(item.itemType){
+	switch (item.itemType) {
 		case survivorItemType.toolbox:
 			possibleAddons = data.toolBoxAddOns;
 			break;
@@ -31,11 +30,15 @@ let ItemAddonRandomizer = ({ item }) => {
 
 	return (
 		<div className="Addons">
-			{selectedAddons.map(itemAddon => 
-				<ItemAddon key={itemAddon.name} name={itemAddon.name} image={itemAddon.image} />
-			)}
+			{selectedAddons.map((itemAddon) => (
+				<SurvivorItemAddon
+					key={itemAddon.name}
+					name={itemAddon.name}
+					image={itemAddon.image}
+				/>
+			))}
 		</div>
-	)
-}
+	);
+};
 
-export default ItemAddonRandomizer;
+export default SurvivorItemAddonRandomizer;
