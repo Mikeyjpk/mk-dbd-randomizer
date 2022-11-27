@@ -1,7 +1,7 @@
-// altered data file. this is is currently broken. 
+// altered data file. this is is currently broken.
 
 import React from 'react';
-import { getRandomSet } from './constants';
+import { getRandomSet } from './RandomizerConstants';
 import KillerAddon from './KillerAddon';
 import data from '../data.json';
 
@@ -10,12 +10,11 @@ const KillerAddonRandomizer = ({ killer }) => {
 
 	return (
 		<div className="killer-addons">
-			{addons.map(addon => 
+			{addons.map((addon) => (
 				<KillerAddon key={addon.name} name={addon.name} image={addon.image} />
-			)}
+			))}
 		</div>
-	)
-}
+	);
+};
 
 export default KillerAddonRandomizer;
-

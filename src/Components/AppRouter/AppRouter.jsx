@@ -2,10 +2,10 @@ import React from 'react';
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import View from '../View/View';
 import Killers from '../../Views/Killers/Killers';
-import Killer from '../../Views/Killers/Killer';
+import Killer from '../../Views/Killers/Killers'; //todo: fix this
 import Randomizer from '../../Views/Randomizer/Randomizer';
 import Survivors from '../../Views/Survivors/Survivors';
-import Survivor from '../../Views/Survivors/Survivor';
+import Survivor from '../../Views/Survivors/Survivors'; //todo: fix this
 import Landing from '../../Views/Landing/Landing';
 
 const AppRouter = () => {

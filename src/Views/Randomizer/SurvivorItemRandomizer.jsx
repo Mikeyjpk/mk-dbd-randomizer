@@ -1,5 +1,5 @@
 import React from 'react';
-import { getRandomItem } from './constants';
+import { getRandomItem } from './RandomizerConstants';
 import SurvivorItem from './SurvivorItem';
 import ItemAddonRandomizer from './ItemAddonRandomizer';
 import data from '../data.json';
@@ -11,6 +11,6 @@ const SurvivorItemRandomizer = () => {
 			<SurvivorItem name={item.name} image={item.image} />
 			<ItemAddonRandomizer item={item} />
 		</div>
-	)
-}
-export default SurvivorItemRandomizer
+	);
+};
+export default SurvivorItemRandomizer;
