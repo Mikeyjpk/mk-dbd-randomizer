@@ -1,9 +1,9 @@
 import React from 'react';
 import { getRandomSet, survivorItemType } from './RandomizerConstants';
-import ItemAddon from './ItemAddon';
-import data from '../data.json';
+import SurvivorItemAddon from '../Survivors/SurvivorItemAddon';
+import data from '../../data.json';
 
-let ItemAddonRandomizer = ({ item }) => {
+const SurvivorItemAddonRandomizer = ({ item }) => {
 	let possibleAddons = [];
 
 	switch (item.itemType) {
@@ -31,7 +31,7 @@ let ItemAddonRandomizer = ({ item }) => {
 	return (
 		<div className="Addons">
 			{selectedAddons.map((itemAddon) => (
-				<ItemAddon
+				<SurvivorItemAddon
 					key={itemAddon.name}
 					name={itemAddon.name}
 					image={itemAddon.image}
@@ -41,4 +41,4 @@ let ItemAddonRandomizer = ({ item }) => {
 	);
 };
 
-export default ItemAddonRandomizer;
+export default SurvivorItemAddonRandomizer;

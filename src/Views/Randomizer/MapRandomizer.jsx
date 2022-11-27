@@ -1,11 +1,11 @@
 import React from 'react';
 import { getRandomItem } from './RandomizerConstants';
-import Maps from './Maps';
-import data from '../data.json';
+import data from '../../data.json';
+import Map from '../Maps/Map';
 
 const MapRandomizer = () => {
 	const { item } = getRandomItem(data.maps);
-	return <Maps name={item.name} image={item.image} />;
+	return <Map name={item.name} image={item.image} />;
 };
 
 export default MapRandomizer;

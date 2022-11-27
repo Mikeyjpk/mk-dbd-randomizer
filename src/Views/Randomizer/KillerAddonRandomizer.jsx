@@ -1,9 +1,6 @@
-// altered data file. this is is currently broken.
-
 import React from 'react';
 import { getRandomSet } from './RandomizerConstants';
-import KillerAddon from './KillerAddon';
-import data from '../data.json';
+import KillerAddon from '../Killers/KillerAddon';
 
 const KillerAddonRandomizer = ({ killer }) => {
 	const addons = getRandomSet(killer.addOns, 2);

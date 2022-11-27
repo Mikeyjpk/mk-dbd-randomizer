@@ -1,8 +1,8 @@
 import React from 'react';
 import { getRandomItem } from './RandomizerConstants';
-import Killer from './Killer';
+import Killer from '../Killers/Killer';
 import KillerAddonRandomizer from './KillerAddonRandomizer';
-import data from '../data.json';
+import data from '../../data.json';
 
 const KillerRandomizer = () => {
 	const { item: killer } = getRandomItem(data.killers);

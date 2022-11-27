@@ -1,7 +1,7 @@
 import React from 'react';
 import { getRandomSet } from './RandomizerConstants';
-import KillerPerk from './KillerPerk';
-import data from '../data.json';
+import KillerPerk from '../Killers/KillerPerk';
+import data from '../../data.json';
 
 const KillerPerkRandomizer = () => {
 	const killerPerks = getRandomSet(data.killerPerks, 4);

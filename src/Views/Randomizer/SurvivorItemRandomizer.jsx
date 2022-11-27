@@ -1,15 +1,15 @@
 import React from 'react';
 import { getRandomItem } from './RandomizerConstants';
-import SurvivorItem from './SurvivorItem';
-import ItemAddonRandomizer from './ItemAddonRandomizer';
-import data from '../data.json';
+import SurvivorItemAddonRandomizer from './SurvivorItemAddonRandomizer';
+import SurvivorItem from '../Survivors/SurvivorItem';
+import data from '../../data.json';
 
 const SurvivorItemRandomizer = () => {
 	const { item } = getRandomItem(data.survivorItems);
 	return (
 		<div className="survivor">
 			<SurvivorItem name={item.name} image={item.image} />
-			<ItemAddonRandomizer item={item} />
+			<SurvivorItemAddonRandomizer item={item} />
 		</div>
 	);
 };

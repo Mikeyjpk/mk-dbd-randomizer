@@ -1,7 +1,7 @@
 import React from 'react';
 import { getRandomItem } from './RandomizerConstants';
-import Survivor from './Survivor';
-import data from '../data.json';
+import data from '../../data.json';
+import Survivor from '../Survivors/Survivor';
 
 const SurvivorRandomizer = () => {
 	const { item } = getRandomItem(data.survivors);
