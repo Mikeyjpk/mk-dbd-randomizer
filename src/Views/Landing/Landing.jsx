@@ -2,22 +2,24 @@ import React from 'react';
 import Typography from '@mui/material/Typography';
 import { Link } from 'react-router-dom';
 // import SampleImage from '../../Images/landingBackground/img1.png';  // this is the img import
+import ImageRandomizer from '../Randomizer/ImageRandomizer'
 import './Landing.scss';
+
 
 const Landing = () => {
 	return (
 		<div className="landing">
-			<Typography variant="h2">
+			<h2 class="heading">
 				DBD Randomizer
-			</Typography>
+			</h2>
 			<div>
-				<a class="button" href="/randomizer">Survivor Randomizer</a>
+				<a class="survivorButton" href="/randomizer">Survivor Randomizer</a>
 			</div>
 			<div>
-				<a class="button" href="/killers">Killer Randomizer</a>
+				<a class="killerButton" href="/killers">Killer Randomizer</a>
 			</div>
 			<div>
-				<a class="button" href="/survivors">Custom Games</a>
+				<a class="customButton" href="/survivors">Custom Games</a>
 			</div>
 		</div>
 	);
