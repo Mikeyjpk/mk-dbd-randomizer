@@ -138,3 +138,4 @@ function digitalRoot(n) {
         ( n + '').split('').reduce((acc, val) => acc + +val, 0));
   }
 };
+
