@@ -1,7 +1,6 @@
 import React from 'react';
 import Typography from '@mui/material/Typography';
 import { Link } from 'react-router-dom';
-// import SampleImage from '../../Images/landingBackground/img1.png';  // this is the img import
 import ImageRandomizer from '../Randomizer/ImageRandomizer'
 import './Landing.scss';
 
@@ -9,17 +8,19 @@ import './Landing.scss';
 const Landing = () => {
 	return (
 		<div className="landing">
-			<h2 class="heading">
+		<ImageRandomizer />
+			
+			<h2 className="heading">
 				DBD Randomizer
 			</h2>
 			<div>
-				<a class="survivorButton" href="/randomizer">Survivor Randomizer</a>
+				<Link className="survivorButton" to="/randomizer">Survivor Randomizer</Link>
 			</div>
 			<div>
-				<a class="killerButton" href="/killers">Killer Randomizer</a>
+				<Link className="killerButton" to="/killers">Killer Randomizer</Link>
 			</div>
 			<div>
-				<a class="customButton" href="/survivors">Custom Games</a>
+				<Link className="customButton" to="/survivors">Custom Games</Link>
 			</div>
 		</div>
 	);

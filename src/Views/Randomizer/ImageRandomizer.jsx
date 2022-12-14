@@ -1,15 +1,20 @@
+
 import React from 'react';
 import { getRandomItem } from './RandomizerConstants';
-import image from '../../Images/landingBackground/'
+import BackgroundImage from '../../Components/BackgroundImage/BackgroundImage';
+import data from '../../data.json';
+
 
 const ImageRandomizer = () => {
 
-	const { item } = getRandomItem(image.any);
-	return <Image  Image={item.image} />;
+	const { item } = getRandomItem(data.landingBackgrounds.image);
+	return (
+		<div className="backgroundImage">
+			<BackgroundImage src={item.image} />
+		</div>
+	);
 
 }
 
 export default ImageRandomizer;
-
-
 
