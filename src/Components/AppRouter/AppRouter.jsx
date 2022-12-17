@@ -7,6 +7,7 @@ import Randomizer from '../../Views/Randomizer/Randomizer';
 import Survivors from '../../Views/Survivors/Survivors';
 import Survivor from '../../Views/Survivors/Survivor';
 import Landing from '../../Views/Landing/Landing';
+import KillerRandomizer from '../../Views/KillerRandomizer/KillerRandomizer'
 
 const AppRouter = () => {
 	return (
@@ -18,6 +19,7 @@ const AppRouter = () => {
 				<Route path="/survivors" element={<View component={Survivors} />} />
 				<Route path="/survivors/:survivorId" element={<View component={Survivor} />} />
 				<Route path="/randomizer" element={<View component={Randomizer} />} />
+				<Route path="/randomizer/killers" element={<View component={KillerRandomizer} />} />
 			</Routes>
 		</BrowserRouter>
 	);

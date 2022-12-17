@@ -1,9 +1,11 @@
 import React from 'react';
 import './BackgroundImage.scss';
+import backgrounds from '../../Images/backgrounds/backgrounds';
 
-const BackgroundImage = ({src}) => {
+const BackgroundImage = ({ backgroundIndex }) => {
 	return (
-		<div className="background-image" style={ { backgroundImage: src } }>
+		<div className="background-image">
+			<img className="background-image__image" src={backgrounds[backgroundIndex]} />
 		</div>
 	);
 };

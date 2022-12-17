@@ -89,6 +89,8 @@ const playRockPaperScissors = () => {
     console.log(determineWinner(userChoice, computerChoice));
   };
 
+
+
   // a simple algorithm to create a game of Magic Eight Ball
   const playMagicEightBall = (userName, userQuestion) => {
     userName ? console.log(`Hello, ${userName}.`) : console.log("Hello!");
@@ -129,13 +131,41 @@ const playRockPaperScissors = () => {
       :  console.log("The EightBall awaits your question");
   };
 
+
+
   // an algorithm to work out the Digital Root/Sum of digits CodeWars
 function digitalRoot(n) {
   if ( n < 10 ) {
     return n 
-    } else {
-      return digitalRoot(
-        ( n + '').split('').reduce((acc, val) => acc + +val, 0));
-  }
+    } 
+    return digitalRoot(
+      ( n + '').split('').reduce((acc, val) => acc + +val, 0));
+  
 };
 
+
+
+// a function to detect input in an array, Ex & Ohs Codewards
+const XO = (str) => {
+  let statement;
+  const counts = str
+    .toLowerCase()
+    .split("")
+    .reduce(
+      (results, currentLetter) => {
+        if (currentLetter === "x") {
+          results.xCount++;
+        } else if (currentLetter === "o") {
+          results.oCount++;
+        }
+        return results;
+      },
+      { xCount: 0, oCount: 0 }
+    );
+
+  if (counts.xCount === counts.oCount) {
+    return (statement = true);
+  } else {
+    return (statement = false);
+  }
+};

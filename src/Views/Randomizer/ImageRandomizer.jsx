@@ -1,17 +1,13 @@
 
 import React from 'react';
-import { getRandomItem } from './RandomizerConstants';
+import { getRandomNumber } from './RandomizerConstants';
 import BackgroundImage from '../../Components/BackgroundImage/BackgroundImage';
-import data from '../../data.json';
-
+import backgrounds from '../../Images/backgrounds/backgrounds';
 
 const ImageRandomizer = () => {
-
-	const { item } = getRandomItem(data.landingBackgrounds.image);
+	const randomBackgroundIndex = getRandomNumber(backgrounds.length);
 	return (
-		<div className="backgroundImage">
-			<BackgroundImage src={item.image} />
-		</div>
+			<BackgroundImage backgroundIndex={randomBackgroundIndex} />
 	);
 
 }

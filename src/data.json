@@ -5645,59 +5645,6 @@
             "name": "Unique Wedding Ring",
             "image" : "https://dbd-randomizer.com/Images/S0/Survivor/AddOns/50/UniqueWeddingRing.webp"
         }
-    ],
-
-
-
-    "landingBackgrounds": [
-        {
-            "id": 1,
-            "image" : "../Images/landingBackground/img1.png"
-        },
-        {
-            "id": 2,
-            "image" : "../Images/landingBackground/img2.png"
-        },
-        {
-            "id": 3,
-            "image" : "../Images/landingBackground/img3.png"
-        },
-        {
-            "id": 4,
-            "image" : "../Images/landingBackground/img4.png"
-        },
-        {
-            "id": 5,
-            "image" : "../Images/landingBackground/img5.png"
-        },
-        {
-            "id": 6,
-            "image" : "../Images/landingBackground/img6.png"
-        },
-        {
-            "id": 7,
-            "image" : "../Images/landingBackground/img7.png"
-        },
-        {
-            "id": 8,
-            "image" : "../Images/landingBackground/img8.png"
-        },
-        {
-            "id": 9,
-            "image" : "../Images/landingBackground/img9.png"
-        },
-        {
-            "id": 10,
-            "image" : "../Images/landingBackground/img10.png"
-        },
-        {
-            "id": 11,
-            "image" : "../Images/landingBackground/img11.png"
-        },
-        {
-            "id": 12,
-            "image" : "../Images/landingBackground/img12.png"
-        } 
     ]
 
 }

@@ -8,20 +8,27 @@ import './Landing.scss';
 const Landing = () => {
 	return (
 		<div className="landing">
-		<ImageRandomizer />
+			<div className="landing__background">
+				<ImageRandomizer />
+			</div>
+			<div className="landing__content">
+				<h2 className="landing__content__heading">
+					DBD Randomizer
+				</h2>
+				<div className="landing__content__button">
+					<Link className="landing__content__button__link" to="/randomizer">Randomizer</Link>
+				</div>
+				<div className="landing__content__button">
+					<Link className="landing__content__button__link" to="/killers">Killers</Link>
+				</div>
+				<div className="landing__content__button">
+					<Link className="landing__content__button__link" to="/survivors">Survivors</Link>
+				</div>
+				<div className="landing__content__button">
+					<Link className="landing__content__button__link" to="/randomizer/killers">Killer Randomizer</Link>
+				</div>
+			</div>
 			
-			<h2 className="heading">
-				DBD Randomizer
-			</h2>
-			<div>
-				<Link className="survivorButton" to="/randomizer">Survivor Randomizer</Link>
-			</div>
-			<div>
-				<Link className="killerButton" to="/killers">Killer Randomizer</Link>
-			</div>
-			<div>
-				<Link className="customButton" to="/survivors">Custom Games</Link>
-			</div>
 		</div>
 	);
 };
