@@ -27,6 +27,9 @@ const Landing = () => {
 				<div className="landing__content__button">
 					<Link className="landing__content__button__link" to="/randomizer/killers">Killer Randomizer</Link>
 				</div>
+				<div className="landing__content__button">
+					<Link className="landing__content__button__link" to="/randomizer/survivors">Survivor Randomizer</Link>
+				</div>
 			</div>
 			
 		</div>

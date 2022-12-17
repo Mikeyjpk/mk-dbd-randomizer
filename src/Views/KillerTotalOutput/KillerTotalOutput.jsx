@@ -1,19 +1,17 @@
 import React from 'react';
-import './KillerRandomizer.scss';
+import './KillerTotalOutput.scss';
 import KillerRandomizer from '../Randomizer/KillerRandomizer';
 import KillerPerkRandomizer from '../Randomizer/KillerPerkRandomizer';
 import MapRandomizer from '../Randomizer/MapRandomizer';
 
-const KillerRandomizer123 = () => {
+const KillerTotalOutput = () => {
 	return (
-		<div className="killer-randomizer">
+		<div className="killer-total-output">
             <KillerRandomizer />
 			<KillerPerkRandomizer />
-			<MapRandomizer />Killer Randomizer
+			<MapRandomizer />
 		</div>
 	);
 };
 
-export default KillerRandomizer123;
-
-// need to change name of this function, KillerRandomizer is used twice, next goal do this ^^^
+export default KillerTotalOutput;
